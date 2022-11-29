@@ -1,5 +1,5 @@
 ---
-widget: introduction
+widget: https://github.com/2018210744/introduction
 widget_id: my-widget-123
 headless: true
 weight: 10
