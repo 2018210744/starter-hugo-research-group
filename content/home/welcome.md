@@ -5,6 +5,7 @@ headless: true
 weight: 10
 title: Information Theory and Signal Processing Lab
 subtitle: Semantic Communications
+active: true
 design:
   columns: "1"
   css_style: null
