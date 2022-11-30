@@ -10,6 +10,12 @@ design:
   columns: "2"
   css_style: null
   css_class: null
+  background:
+    color: "#b23f3f"
+    gradient_start: "#2c5f49"
+    gradient_end: "#541997"
+    text_color_light: true
+    image_darken: 0
 hero_media: welcome.jpg
 ---
 <br>
