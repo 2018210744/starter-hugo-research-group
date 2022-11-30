@@ -3,7 +3,7 @@ widget: blank
 widget_id: noidea
 headless: true
 weight: 40
-title: cta:null
+title: ""
 subtitle: null
 design:
   columns: "1"
