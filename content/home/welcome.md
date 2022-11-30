@@ -7,7 +7,7 @@ title: Information Theory and Signal Processing Lab
 subtitle: Semantic Communications
 active: true
 design:
-  columns: "2"
+  columns: "1"
   css_style: null
   css_class: null
   background:
@@ -18,8 +18,8 @@ design:
     image_darken: 0
 hero_media: welcome.jpg
 ---
-<br>
+<br/>
 
-<﻿br>
+
 
 The **Information Theory and Signal Processing Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
