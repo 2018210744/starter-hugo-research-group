@@ -24,5 +24,8 @@ main:
     url: contact
     weight: 60
   - name: Try
-    url: #try
+    url: /#try
+    weight: 70
+  - name: Image
+    url: /#image
     weight: 70
