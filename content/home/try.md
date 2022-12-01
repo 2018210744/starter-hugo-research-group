@@ -7,7 +7,7 @@ title: try
 subtitle: tryyyy
 active: true
 design:
-  columns: "2"
+  columns: "1"
   background:
     text_color_light: false
     image_darken: 0
