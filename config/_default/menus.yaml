@@ -23,6 +23,6 @@ main:
   - name: Contact
     url: contact
     weight: 60
-  - name: jump
+  - name: Try
     url: #try
     weight: 70
