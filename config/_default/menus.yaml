@@ -5,7 +5,7 @@
 
 main:
   - name: jump
-    url: #news
+    url: #try
     weight: 0
   - name: Tour
     url: tour
