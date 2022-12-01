@@ -1,5 +1,5 @@
 ---
-widget: https://github.com/2018210744/introduction/blob/main/blocks/github.2018210744.introduction.html
+widget: blank
 widget_id: try
 headless: true
 weight: 15
