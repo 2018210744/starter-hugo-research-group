@@ -19,9 +19,9 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Information Theory and Signal Processing Lab'
+    description: 'Information Theory and Signal Processing Lab.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} BUPT. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
