@@ -11,7 +11,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    color: "#ffffff"
+    color: "#e9e9e9"
     gradient_start: "#ffffff"
     gradient_end: "#ffffff"
 ---
@@ -20,6 +20,9 @@ design:
 ### [Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
 
 <!--EndFragment-->
+
+
+[百度](www.baidu.com)
 
 <!--StartFragment-->
 
