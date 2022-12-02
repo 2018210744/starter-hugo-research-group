@@ -8,7 +8,7 @@ design:
   columns: "1"
   background:
     text_color_light: false
-    image_darken: 0
+    image_darken: ""
 ---
 {{% cta cta_link="./people/" cta_text="EMNPL 2022" %}}
 
