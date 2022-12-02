@@ -11,7 +11,8 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: carl.jpg
+    image: ""
+    color: "#f3f3f3"
 ---
 <!--StartFragment-->
 
