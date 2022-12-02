@@ -21,5 +21,3 @@ design:
 <!--EndFragment-->
 
 ##### [Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
-
-{{% btn btn_link="./people/" btn_text="List all papers →" %}}
