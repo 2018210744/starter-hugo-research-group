@@ -8,7 +8,8 @@
 appearance:
   theme_day: minimal
   theme_night:
-  font: native
+#   font: native
+  font: georgia
   font_size: L
 
 # SEO
