@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Papers
 headless: true
-weight: 15
+weight: 50
 title: Papers
 subtitle: List All Pappers →
 active: true
@@ -23,14 +23,10 @@ design:
 
 > [百度](https://www.baidu.com)
 >
-> <!--StartFragment-->
->
 > [Multimodal Named Entity Recognition (MNER) faces two specific challenges: 1) How to capture useful entity-related visual information; …](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
->
-> <!--EndFragment-->
 
 `<﻿div class="btn-links">`
 
 `<﻿a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://2022.emnlp.org/" target="_blank" rel="noopener">`
 
-`  </a></div>`
+`</a></div>`
