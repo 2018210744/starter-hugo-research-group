@@ -9,10 +9,17 @@ active: true
 design:
   columns: "2"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: 0
     color: "#dd6666"
     gradient_start: "#e51515"
     gradient_end: "#1f0b0b"
 ---
-t﻿tttttttttttttttttttttttttry
+> 1. t﻿tttttttttttttttttttttttttry
+> 2. 1﻿23123
+>
+> ```
+>
+> ```
+>
+> ![]()
