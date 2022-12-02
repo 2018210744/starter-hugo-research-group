@@ -10,7 +10,7 @@ appearance:
   theme_night:
 #   font: native
 #   font: georgia
-  font: cyberpunk 
+  font: classic
   font_size: L
 
 # SEO
