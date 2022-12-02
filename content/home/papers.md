@@ -20,4 +20,4 @@ design:
 
 <!--EndFragment-->
 
-{{% lta lta_link="./people/" lta_text="Meet the team →" %}}
+{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
