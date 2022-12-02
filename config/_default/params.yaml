@@ -9,7 +9,8 @@ appearance:
   theme_day: minimal
   theme_night:
 #   font: native
-  font: georgia
+#   font: georgia
+  font: Mr Robot
   font_size: L
 
 # SEO
