@@ -20,20 +20,4 @@ design:
 
 <!--EndFragment-->
 
-> <!--StartFragment-->
->
-> [Multimodal Named Entity Recognition (MNER) faces two specific challenges: 1) How to capture useful entity-related visual information; …](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
->
-> <!--EndFragment-->
->
-> <!--StartFragment-->
->
-> [GangZhao](https://pris-nlp.github.io/en/author/gangzhao/), [Guanting Dong](https://pris-nlp.github.io/en/author/guanting-dong/), [YidongShi](https://pris-nlp.github.io/en/author/yidongshi/), [HaolongYan](https://pris-nlp.github.io/en/author/haolongyan/), [Weiran Xu](https://pris-nlp.github.io/en/author/weiran-xu/), [SiLi](https://pris-nlp.github.io/en/author/sili/)
->
-> <!--EndFragment-->
-
-<!--StartFragment-->
-
-[](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
-
-<!--EndFragment-->
+{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
