@@ -9,7 +9,8 @@ design:
   background:
     text_color_light: false
     image_darken: ""
+    color: "#ffffff"
+    gradient_start: "#ffffff"
+    gradient_end: "#ffffff"
 ---
-{{% cta cta_link="./people/" cta_text="EMNPL 2022" %}}
-
-{{% cta cta_link="./people/" cta_text="EMNPL 2021" %}}
+{{% cta cta_link="./people/" cta_text="EMNPL 2022" %}}{{% cta cta_link="./people/" cta_text="EMNPL 2021" %}}
