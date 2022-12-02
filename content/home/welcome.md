@@ -20,4 +20,10 @@ hero_media: welcome.jpg
 ---
 <br/>
 
-The **Information Theory and Signal Processing Lab** has been a center of excellence <!-more->or Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **Information Theory and Signal Processing Lab** has been a center of excellence or<!--StartFragment-->
+
+<!--StartFragment-->
+
+<!--EndFragment-->
+
+<!--EndFragment--> Artificial Intelligence research, teaching, and practice since its founding in 2016.
