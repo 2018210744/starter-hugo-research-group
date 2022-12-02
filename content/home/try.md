@@ -15,7 +15,285 @@ design:
     gradient_start: "#e51515"
     gradient_end: "#1f0b0b"
 ---
-> 1. t﻿tttttttttttttttttttttttttry
-> 2. 1﻿23123
->
-> ![png](contact.jpg "jpg")
+ <section id="papers" class="home-section wg-pages   "  >
+    <div class="container">
+      
+<div class="row ">
+  
+    
+      <div class="col-12 col-lg-4 section-heading">
+        <h1>Papers</h1>
+        <p><a href="/en/publication/">List All Pappers →</a></p>
+      </div>
+    
+  
+  <div class="col-12 col-lg-8">
+
+<div class="media stream-item">
+  <div class="media-body">
+
+```
+
+```
+
+  <span ><a href="/en/author/gangzhao/">GangZhao</a></span>, <span ><a href="/en/author/guanting-dong/">Guanting Dong</a></span>, <span ><a href="/en/author/yidongshi/">YidongShi</a></span>, <span ><a href="/en/author/haolongyan/">HaolongYan</a></span>, <span ><a href="/en/author/weiran-xu/">Weiran Xu</a></span>, <span ><a href="/en/author/sili/">SiLi</a></span>
+      </div>
+
+```
+
+```
+
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://2022.emnlp.org/" target="_blank" rel="noopener">
+    
+    EMNLP 2022 Findings
+  </a>
+
+```
+
+```
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/" >
+      <img src="/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/featured_hue27cf4cf6f9401112f840449312e262c_124722_150x0_resize_lanczos_3.png" alt="Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition">
+    </a>
+    
+  </div>
+</div>
+
+<div class="media stream-item">
+  <div class="media-body">
+
+```
+
+```
+
+  <span ><a href="/en/author/qixiang-gao/">Qixiang Gao</a></span>, <span ><a href="/en/author/guanting-dong/">Guanting Dong</a></span>, <span ><a href="/en/author/yutao-mu/">Yutao Mu</a></span>, <span ><a href="/en/author/liwen-wang/">Liwen Wang</a></span>, <span ><a href="/en/author/chen-zeng/">Chen Zeng</a></span>, <span ><a href="/en/author/daichi-guo/">Daichi Guo</a></span>, <span ><a href="/en/author/mingyangsun/">MingyangSun</a></span>, <span ><a href="/en/author/weiran-xu/">Weiran Xu</a></span>
+      </div>
+
+```
+
+```
+
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://2022.emnlp.org/" target="_blank" rel="noopener">
+    
+    EMNLP 2022
+  </a>
+
+```
+
+```
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/en/publication/exploiting-domain-slot-related-keywords-description-for-few-shot-cross-domain-dialogue-state-tracking/" >
+      <img src="/en/publication/exploiting-domain-slot-related-keywords-description-for-few-shot-cross-domain-dialogue-state-tracking/featured_hub2db283ff9f8ceee820fadda84382930_233181_150x0_resize_lanczos_3.png" alt="Exploiting domain-slot related keywords description for Few-Shot Cross-Domain Dialogue State Tracking">
+    </a>
+    
+  </div>
+</div>
+
+<div class="media stream-item">
+  <div class="media-body">
+
+```
+
+```
+
+  <span ><a href="/en/author/yutao-mu/">Yutao Mu</a></span>, <span ><a href="/en/author/pei-wang/">Pei Wang</a></span>, <span ><a href="/en/author/keqing-he/">Keqing He</a></span>, <span ><a href="/en/author/yanan-wu/">Yanan Wu</a></span>, <span ><a href="/en/author/jingangwang/">JingangWang</a></span>, <span ><a href="/en/author/weiwu/">WeiWu</a></span>, <span ><a href="/en/author/weiran-xu/">Weiran Xu</a></span>
+      </div>
+
+```
+
+```
+
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://2022.emnlp.org/" target="_blank" rel="noopener">
+    
+    EMNLP 2022
+  </a>
+
+```
+
+```
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/en/publication/uninl-aligning-representation-learning-with-scoring-function-for-ood-detection-via-unified-neighborhood-learning/" >
+      <img src="/en/publication/uninl-aligning-representation-learning-with-scoring-function-for-ood-detection-via-unified-neighborhood-learning/featured_hu40dfc5b4f91e79ca585c72b4bad13266_75114_150x0_resize_lanczos_3.png" alt="UniNL: Aligning Representation Learning with Scoring Function for OOD Detection via Unified Neighborhood Learning">
+    </a>
+    
+  </div>
+</div>
+
+<div class="media stream-item">
+  <div class="media-body">
+
+```
+
+```
+
+  <span ><a href="/en/author/yutao-mu/">Yutao Mu</a></span>, <span ><a href="/en/author/keqing-he/">Keqing He</a></span>, <span ><a href="/en/author/pei-wang/">Pei Wang</a></span>, <span ><a href="/en/author/yanan-wu/">Yanan Wu</a></span>, <span ><a href="/en/author/jingangwang/">JingangWang</a></span>, <span ><a href="/en/author/weiwu/">WeiWu</a></span>, <span ><a href="/en/author/weiran-xu/">Weiran Xu</a></span>
+      </div>
+
+```
+
+```
+
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://2022.emnlp.org/" target="_blank" rel="noopener">
+    
+    EMNLP 2022
+  </a>
+
+```
+
+```
+
+  </div>
+  <div class="ml-3">
+    
+    <a href="/en/publication/watch-the-neighbors-a-unified-k-nearest-neighbor-contrastive-learning-framework-for-ood-intent-discovery/" >
+      <img src="/en/publication/watch-the-neighbors-a-unified-k-nearest-neighbor-contrastive-learning-framework-for-ood-intent-discovery/featured_hu4b5058962bec6247c5a3f94275f0b1e4_42502_150x0_resize_lanczos_3.png" alt="Watch the Neighbors: A Unified K-Nearest Neighbor Contrastive Learning Framework for OOD Intent Discovery">
+    </a>
+    
+  </div>
+</div>
+
+<div class="media stream-item">
+  <div class="media-body">
+
+```
+
+```
+
+  <span ><a href="/en/author/yanan-wu/">Yanan Wu</a></span>, <span ><a href="/en/author/zhiyuan-zeng/">Zhiyuan Zeng</a></span>, <span ><a href="/en/author/keqing-he/">Keqing He</a></span>, <span ><a href="/en/author/yutao-mu/">Yutao Mu</a></span>, <span ><a href="/en/author/pei-wang/">Pei Wang</a></span>, <span ><a href="/en/author/yuanmeng-yan/">Yuanmeng Yan</a></span>, <span ><a href="/en/author/weiran-xu/">Weiran Xu</a></span>
+      </div>
+
+```
+
+```
+
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://2022.emnlp.org/program/workshops/" target="_blank" rel="noopener">
+    
+    EMNLP 2022 workshop
+  </a>
+
+```
+
+```
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/en/publication/disentangling-confidence-score-distribution-for-out-of-domain-intent-detection-with-energy-based-learning/" >
+      <img src="/en/publication/disentangling-confidence-score-distribution-for-out-of-domain-intent-detection-with-energy-based-learning/featured_hu42623a494ec52f0fdd687fe4129bf489_129164_150x0_resize_lanczos_3.png" alt="Disentangling Confidence Score Distribution for Out-of-Domain Intent Detection with Energy-Based Learning">
+    </a>
+    
+  </div>
+</div>
+
+<div class="media stream-item">
+  <div class="media-body">
+
+```
+
+```
+
+  <span ><a href="/en/author/yutao-mu/">Yutao Mu</a></span>, <span ><a href="/en/author/keqing-he/">Keqing He</a></span>, <span ><a href="/en/author/yanan-wu/">Yanan Wu</a></span>, <span ><a href="/en/author/pei-wang/">Pei Wang</a></span>, <span ><a href="/en/author/jingangwang/">JingangWang</a></span>, <span ><a href="/en/author/weiwu/">WeiWu</a></span>, <span ><a href="/en/author/yihuang/">YiHuang</a></span>, <span ><a href="/en/author/junlanfeng/">JunlanFeng</a></span>, <span ><a href="/en/author/weiran-xu/">Weiran Xu</a></span>
+      </div>
+
+```
+
+```
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aclanthology.org/2022.coling-1.59.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/en/publication/generalized-intent-discovery-learning-from-open-world-dialogue-system/cite.bib">
+  Cite
+</button>
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/myt517/gid_benchmark" target="_blank" rel="noopener">
+  Code
+</a>
+
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://coling2022.org/" target="_blank" rel="noopener">
+    
+    COLING 2022
+  </a>
+
+```
+
+```
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/en/publication/generalized-intent-discovery-learning-from-open-world-dialogue-system/" >
+      <img src="/en/publication/generalized-intent-discovery-learning-from-open-world-dialogue-system/featured_hu22d087832b0fa3f76508c15e9521a587_53840_150x0_resize_lanczos_3.png" alt="Generalized Intent Discovery: Learning from Open World Dialogue System">
+    </a>
+    
+  </div>
+</div>
+
+<div class="media stream-item">
+  <div class="media-body">
+
+```
+
+```
+
+  <span ><a href="/en/author/yanan-wu/">Yanan Wu</a></span>, <span ><a href="/en/author/zhiyuan-zeng/">Zhiyuan Zeng</a></span>, <span ><a href="/en/author/keqing-he/">Keqing He</a></span>, <span ><a href="/en/author/yutao-mu/">Yutao Mu</a></span>, <span ><a href="/en/author/pei-wang/">Pei Wang</a></span>, <span ><a href="/en/author/weiran-xu/">Weiran Xu</a></span>
+      </div>
+
+```
+
+```
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://aclanthology.org/2022.coling-1.50.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/en/publication/distribution-calibration-for-out-of-domain-detection-with-bayesian-approximation/cite.bib">
+  Cite
+</button>
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/pris-nlp/coling2022_bayesian-for-ood" target="_blank" rel="noopener">
+  Code
+</a>
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://coling2022.org/" target="_blank" rel="noopener">
+    COLING 2022
+  </a>
+  </div>
+    
+
+  </div>
+  <div class="ml-3">
+    <a href="/en/publication/distribution-calibration-for-out-of-domain-detection-with-bayesian-approximation/" >
+      <img src="/en/publication/distribution-calibration-for-out-of-domain-detection-with-bayesian-approximation/featured_hu29f73562d2d7e2724830fa09d71a7a31_39994_150x0_resize_lanczos_3.png" alt="Distribution Calibration for Out-of-Domain Detection with Bayesian Approximation">
+    </a>
+  </div>
+</div>
+      <div class="see-all">
+        <a href="/en/publication/">
+          List All Papers
+          <i class="fas fa-angle-right"></i>
+        </a>
+      </div>
+  </div>
+</div>
+    </div>
+  </section>
