@@ -7,7 +7,7 @@ active: true
 design:
   columns: "1"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: ""
     color: "#ffffff"
     gradient_start: "#ffffff"
