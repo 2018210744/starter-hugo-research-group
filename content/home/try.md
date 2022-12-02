@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: try
+widget_id: Papers
 headless: true
 weight: 15
 title: Papers
@@ -11,9 +11,9 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    color: "#dd6666"
-    gradient_start: "#e51515"
-    gradient_end: "#1f0b0b"
+    color: "#ffffff"
+    gradient_start: "#ffffff"
+    gradient_end: "#ffffff"
 ---
  <section id="papers" class="home-section wg-pages   "  >
     <div class="container">
