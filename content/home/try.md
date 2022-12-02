@@ -3,8 +3,8 @@ widget: blank
 widget_id: try
 headless: true
 weight: 15
-title: try
-subtitle: tryyyy
+title: Papers
+subtitle: List All Pappers →
 active: true
 design:
   columns: "2"
