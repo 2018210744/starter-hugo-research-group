@@ -3,6 +3,7 @@ widget: blank
 widget_id: btn
 headless: true
 weight: 30
+title: '{{% btn btncta_link="./people/" btn_text="EMNPL 2022" %}}'
 subtitle: '{{% cta cta_link="./people/" cta_text="EMNPL 2022" %}}'
 active: true
 design:
