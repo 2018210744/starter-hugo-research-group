@@ -4,7 +4,7 @@ widget_id: papers
 headless: true
 weight: 20
 title: Papers
-subtitle: List all papers →
+subtitle: '{{% cta cta_link="./people/" cta_text="List all papers →" %}}'
 active: true
 design:
   columns: "2"
