@@ -3,9 +3,10 @@ widget: blank
 widget_id: btn
 headless: true
 weight: 30
+subtitle: '{{% cta cta_link="./people/" cta_text="EMNPL 2022" %}}'
 active: true
 design:
-  columns: "1"
+  columns: "2"
   background:
     text_color_light: true
     image_darken: ""
