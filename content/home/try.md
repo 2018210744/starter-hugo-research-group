@@ -18,8 +18,4 @@ design:
 > 1. t﻿tttttttttttttttttttttttttry
 > 2. 1﻿23123
 >
-> ```
->
-> ```
->
 > ![png](contact.jpg "jpg")
