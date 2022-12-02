@@ -21,13 +21,13 @@ design:
 
 <!--EndFragment-->
 
-[百度](https://www.baidu.com)
-
-<!--StartFragment-->
-
-[Multimodal Named Entity Recognition (MNER) faces two specific challenges: 1) How to capture useful entity-related visual information; …](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
-
-<!--EndFragment-->
+> [百度](https://www.baidu.com)
+>
+> <!--StartFragment-->
+>
+> [Multimodal Named Entity Recognition (MNER) faces two specific challenges: 1) How to capture useful entity-related visual information; …](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
+>
+> <!--EndFragment-->
 
 `<﻿div class="btn-links">`
 
