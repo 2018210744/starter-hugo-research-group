@@ -15,7 +15,7 @@ design:
     gradient_start: "#ffffff"
     gradient_end: "#ffffff"
 ---
-```
+```html
  <section id="papers" class="home-section wg-pages   "  >
     <div class="container">
       
