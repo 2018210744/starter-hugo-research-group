@@ -52,10 +52,10 @@ sections:
     content:
       title: Papers
       text: |-
-        [List all papers →](./papers/)
+        [List all papers →](./publications/)
       filters:
         folders:
-          - papers
+          - publications
         exclude_featured: true
     design:
       columns: '2'
