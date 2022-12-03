@@ -3,7 +3,7 @@ title: NTC
 publication_types:
   - "3"
 authors:
-  - SITE SETUP
+  - Jincheng Dai
 doi: ""
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
