@@ -36,6 +36,34 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+  - block: collection
+    content:
+      title: News
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - news
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    content:
+      title: Papers
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - papers
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
