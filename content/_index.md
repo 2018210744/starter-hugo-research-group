@@ -40,7 +40,7 @@ sections:
     content:
       title: News
       text: |-
-        [List all news →](./publication/)
+        [List all news →](./news/)
       filters:
         folders:
           - news
@@ -52,7 +52,7 @@ sections:
     content:
       title: Papers
       text: |-
-        [List all papers →](./publication/)
+        [List all papers →](./papers/)
       filters:
         folders:
           - papers
