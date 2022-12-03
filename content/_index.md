@@ -40,14 +40,11 @@ sections:
     content:
       title: News
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
         [List all news →](./publication/)
       filters:
         folders:
           - news
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
@@ -55,9 +52,6 @@ sections:
     content:
       title: Papers
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
         [List all papers →](./publication/)
       filters:
         folders:
