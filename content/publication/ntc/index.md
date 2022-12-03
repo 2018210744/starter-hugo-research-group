@@ -19,7 +19,7 @@ tags:
   - Source Themes
 projects:
   - internal-project
-slides: example
+slides: ""
 image:
   filename: 课表.jpg
   focal_point: ""
