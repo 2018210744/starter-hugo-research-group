@@ -52,7 +52,7 @@ sections:
     content:
       title: Papers
       text: |-
-        [List all papers →](./publications/)
+        [List all papers →](./publication/)
       filters:
         folders:
           - publications
