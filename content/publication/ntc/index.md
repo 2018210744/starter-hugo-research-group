@@ -4,6 +4,7 @@ publication_types:
   - "3"
 authors:
   - daijincheng
+doi: ""
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
@@ -14,8 +15,13 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   eleifend gravida.
 draft: false
 featured: false
+tags:
+  - Source Themes
+projects:
+  - internal-project
+slides: example
 image:
-  filename: featured
+  filename: 课表.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-12-03T06:10:59.256Z
