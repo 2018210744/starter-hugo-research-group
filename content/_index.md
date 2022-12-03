@@ -43,6 +43,7 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
+        [List all news →](./publication/)
       filters:
         folders:
           - news
@@ -57,6 +58,7 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
+        [List all papers →](./publication/)
       filters:
         folders:
           - papers
