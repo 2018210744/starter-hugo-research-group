@@ -1,5 +1,5 @@
 ---
-widget: collection
+widget: blank
 widget_id: papers
 headless: true
 weight: 20
