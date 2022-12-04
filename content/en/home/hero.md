@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Intelligent Information Processing and Advanced Control Software Technology Research Team"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "iar.jpg"
+hero_media = "BUPTgate.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
