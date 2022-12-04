@@ -37,14 +37,14 @@ hero_media = "BUPTgate.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/thuiar"
+  url = "https://github.com/"
   label = "Github"
   icon_pack = "fab"
   icon = "github"
   
-[cta_alt]
-  url = "/#contact"
-  label = "Contact Us"
+# [cta_alt]
+#  url = "/#contact"
+#  label = "Contact Us"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
