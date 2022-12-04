@@ -17,20 +17,24 @@
 [zh]
  languageCode = "zh-Hans"
  contentDir = "content/zh"
- title = "清华大学IAR研究组"
+ title = "北京邮电大学信息理论与信号处理实验室"
  [zh.params]
-   description = "THU-IAR"
+   description = "BUPT-ISL"
  [[zh.menu.main]]
    name = "主页"
    url = "#hero"
    weight = 10
+# [[zh.menu.main]]
+#   name = "主研方向"
+#   url = "#direction"
+#   weight = 11
+# [[zh.menu.main]]
+#   name = "成员"
+#   url = "#people"
+#   weight = 20
  [[zh.menu.main]]
-   name = "主研方向"
-   url = "#direction"
-   weight = 11
- [[zh.menu.main]]
-   name = "成员"
-   url = "#people"
+   name = "新闻"
+   url = "#news"
    weight = 20
  [[zh.menu.main]]
    name = "论文"
@@ -41,23 +45,26 @@
    url = "#patents"
    weight = 33
  [[zh.menu.main]]
-   name = "主讲课程"
-   url = "#courses"
-   weight = 34
- [[zh.menu.main]]
-   name = "教材"
-   url = "#textbooks"
-   weight = 35
- [[zh.menu.main]]
-   name = "专著"
-   url = "#monographs"
-   weight = 36
- [[zh.menu.main]]
-   name = "奖项"
-   url = "#accomplishments"
+   name = "成员"
+   url = "/people"
    weight = 40
- [[zh.menu.main]]
-   name = "联系"
-   url = "#contact"
-   weight = 50
+# [[zh.menu.main]]
+#   name = "主讲课程"
+#   url = "#courses"
+#   weight = 34
+# [[zh.menu.main]]
+#   name = "教材"
+#   url = "#textbooks"
+#   weight = 35
+# [[zh.menu.main]]
+#   name = "专著"
+#   url = "#monographs"
+#   weight = 36
+# [[zh.menu.main]]
+#   name = "奖项"
+#   url = "#accomplishments"
+#   weight = 40
+# [[zh.menu.main]]
+#   name = "联系"
+#   weight = 50
 
