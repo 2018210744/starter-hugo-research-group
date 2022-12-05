@@ -51,7 +51,7 @@ hero_media = "BUPTgate.jpg"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-
+Semantic Communications
 State Key Laboratory of Intelligent<br/> Technology and Systems, Department of Computer Science and Technology, Tsinghua University
 
 
