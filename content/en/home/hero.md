@@ -52,6 +52,6 @@ hero_media = "BUPTgate.jpg"
 +++
 
 
-State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Tsinghua University
+State Key Laboratory of Intelligent<br/> Technology and Systems, Department of Computer Science and Technology, Tsinghua University
 
 
