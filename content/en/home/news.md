@@ -15,8 +15,7 @@ design:
     gradient_start: "#ffffff"
     gradient_end: "#ffffff"
 ---
-#  • First new 11111111 
-<br/>
+#  • First new 11111111<br/>
 #  • Second new 2222222
 <br/>
   • Third new 2222222
