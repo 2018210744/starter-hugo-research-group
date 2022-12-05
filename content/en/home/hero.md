@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Intelligent Information Processing and Advanced Control Software Technology Research Team"
+title = "Information Theory and Signal Processing Lab"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "BUPTgate.jpg"
