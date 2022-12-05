@@ -15,10 +15,14 @@ design:
     gradient_start: "#ffffff"
     gradient_end: "#ffffff"
 ---
-#  · First new 11111111
-<br/>
+<!--StartFragment-->
+#  · First new 11111111 <br/>
+<!--EndFragment-->
+<!--StartFragment-->
 #  · Second new 2222222
 <br/>
+
+<!--EndFragment-->
   · Second new 2222222
 <br/>
 >#  · Second new 2222222
