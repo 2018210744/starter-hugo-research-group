@@ -20,7 +20,7 @@
 
 [[main]]
   name = "People Page"
-  url = "/people"
+  url = "/peoplepage"
   weight = 40
 
 [[main]]
