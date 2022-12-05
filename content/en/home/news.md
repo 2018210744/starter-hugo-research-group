@@ -18,19 +18,19 @@ design:
 #  · First new 11111111 
 <br/>
 
-#  · Second new 2222222
+#  • Second new 2222222
 <br/>
 
   · Second new 2222222
 <br/>
 
-  · Second new 2222222
+  • Second new 2222222
 <br/>
 
-  · Second new 2222222
+  • Second new 2222222
 <br/>
 
-  · Second new 2222222
+  • Second new 2222222
 <br/>
 
   · Second new 2222222
