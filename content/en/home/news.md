@@ -15,34 +15,30 @@ design:
     gradient_start: "#ffffff"
     gradient_end: "#ffffff"
 ---
-<!--StartFragment-->
-#  · First new 11111111 <br/>
-<!--EndFragment-->
-<!--StartFragment-->
+#  · First new 11111111 
+<br/>
+
 #  · Second new 2222222
 <br/>
 
-<!--EndFragment-->
   · Second new 2222222
 <br/>
->#  · Second new 2222222
-<br/>
->#  · Second new 2222222
-<br/>
-<!--StartFragment-->
->#  · Second new 2222222
-<br/>
-<!--EndFragment-->
-<!--StartFragment-->
->  · Second new 2222222
-<br/>
-<!--EndFragment-->
 
-<!--StartFragment-->
+  · Second new 2222222
+<br/>
+
+  · Second new 2222222
+<br/>
+
+  · Second new 2222222
+<br/>
+
+  · Second new 2222222
+<br/>
 
 # [Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
 
-<!--EndFragment-->
+
 
 > [百度](https://www.baidu.com)
 >
