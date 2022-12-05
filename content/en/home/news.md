@@ -3,7 +3,7 @@ widget: blank
 widget_id: News
 headless: true
 weight: 14
-title: Papers
+title: News
 subtitle: Recent news
 active: true
 design:
@@ -15,6 +15,12 @@ design:
     gradient_start: "#ffffff"
     gradient_end: "#ffffff"
 ---
+  · First new 11111111
+  · Second new 2222222
+  · Second new 2222222
+  · Second new 2222222
+  · Second new 2222222
+
 <!--StartFragment-->
 
 # [Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
@@ -24,6 +30,7 @@ design:
 > [百度](https://www.baidu.com)
 >
 > [Multimodal Named Entity Recognition (MNER) faces two specific challenges: 1) How to capture useful entity-related visual information; …](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
+
 
 `<﻿div class="btn-links">`
 
