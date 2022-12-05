@@ -19,7 +19,7 @@
   weight = 30
 
 [[main]]
-  name = "People"
+  name = "People Page"
   url = "/people"
   weight = 40
 
