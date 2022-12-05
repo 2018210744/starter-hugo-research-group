@@ -19,13 +19,13 @@
   weight = 30
 
 [[main]]
-  name = "Patents"
-  url = "#patents"
-  weight = 33
+  name = "People"
+  url = "/people"
+  weight = 40
 
 [[main]]
   name = "People"
-  url = "#people/"
+  url = "#people"
   weight = 40
   
 # Link to a PDF of your resume/CV from the menu.
