@@ -13,25 +13,36 @@ subtitle = "Recent news"
 
 
 [content]
+  · First new 11111111
+<br/>
+  · Second new 2222222
+<br/>
+  · Second new 2222222
+<br/>
+  · Second new 2222222
+<br/>
+  · Second new 2222222
+<br/>
+
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "patent"
+  # page_type = "patent"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 15
+  # count = 15
   
   # Choose how many pages you would like to offset by
-  offset = 0
+  # offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  # order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+  # [content.filters]
+  #  tag = ""
+  #  category = ""
+  #  publication_type = ""
+  #  author = ""
+  #  exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
