@@ -1,82 +1,32 @@
-+++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
+---
+widget: blank
+widget_id: News
+headless: true
+weight: 14
+title: Papers
+subtitle: Recent news
+active: true
+design:
+  columns: "2"
+  background:
+    text_color_light: false
+    image_darken: 0
+    color: "#e9e9e9"
+    gradient_start: "#ffffff"
+    gradient_end: "#ffffff"
+---
+<!--StartFragment-->
 
-# widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+# [Entity-level Interaction via Heterogeneous Graph for Multimodal Named Entity Recognition](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
 
-title = "News"
-subtitle = "Recent news"
+<!--EndFragment-->
 
+> [百度](https://www.baidu.com)
+>
+> [Multimodal Named Entity Recognition (MNER) faces two specific challenges: 1) How to capture useful entity-related visual information; …](https://pris-nlp.github.io/en/publication/entity-level-interaction-via-heterogeneous-graph-for-multimodal-named-entity-recognition/)
 
-[content]
-  · First new 11111111
-<br/>
-  · Second new 2222222
-<br/>
-  · Second new 2222222
-<br/>
-  · Second new 2222222
-<br/>
-  · Second new 2222222
-<br/>
+`<﻿div class="btn-links">`
 
-  # Page type to display. E.g. post, talk, or publication.
-  # page_type = "patent"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  # count = 15
-  
-  # Choose how many pages you would like to offset by
-  # offset = 0
+`<﻿a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://2022.emnlp.org/" target="_blank" rel="noopener">`
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  # order = "desc"
-
-  # Filter posts by a taxonomy term.
-  # [content.filters]
-  #  tag = ""
-  #  category = ""
-  #  publication_type = ""
-  #  author = ""
-  #  exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 1
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
-  # Background color.
-  # color = "purple"
-  
-  # Background gradient.
-  # gradient_start = "#B334F8"
-  # gradient_end = "#8F05DA"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
-
+`</a></div>`
