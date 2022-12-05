@@ -14,16 +14,16 @@
   directions = "4-506, FIT Building, Tsinghua University"
 
 # Uncomment the lines below to configure your website in a second language.
-[zh]
- languageCode = "zh-Hans"
- contentDir = "content/zh"
- title = "北京邮电大学信息理论与信号处理实验室"
- [zh.params]
-   description = "BUPT-ISL"
- [[zh.menu.main]]
-   name = "主页"
-   url = "#hero"
-   weight = 10
+#[zh]
+# languageCode = "zh-Hans"
+# contentDir = "content/zh"
+# title = "北京邮电大学信息理论与信号处理实验室"
+# [zh.params]
+#   description = "BUPT-ISL"
+# [[zh.menu.main]]
+#   name = "主页"
+#   url = "#hero"
+#   weight = 10
 # [[zh.menu.main]]
 #   name = "主研方向"
 #   url = "#direction"
@@ -32,22 +32,22 @@
 #   name = "成员"
 #   url = "#people"
 #   weight = 20
- [[zh.menu.main]]
-   name = "新闻"
-   url = "#news"
-   weight = 20
- [[zh.menu.main]]
-   name = "论文"
-   url = "#papers"
-   weight = 30
- [[zh.menu.main]]
-   name = "专利"
-   url = "#patents"
-   weight = 33
- [[zh.menu.main]]
-   name = "成员"
-   url = "/people"
-   weight = 40
+# [[zh.menu.main]]
+#   name = "新闻"
+#   url = "#news"
+#   weight = 20
+# [[zh.menu.main]]
+#   name = "论文"
+#   url = "#papers"
+#   weight = 30
+# [[zh.menu.main]]
+#   name = "专利"
+#   url = "#patents"
+#   weight = 33
+# [[zh.menu.main]]
+#   name = "成员"
+#   url = "/people"
+#   weight = 40
 # [[zh.menu.main]]
 #   name = "主讲课程"
 #   url = "#courses"
