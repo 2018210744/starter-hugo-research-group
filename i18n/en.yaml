@@ -44,9 +44,6 @@
   translation: Automatic
 
 # Buttons
-
-- id: btn_globecom
-  translation: 2022 GLOBECOM
   
 - id: btn_preprint
   translation: Preprint
