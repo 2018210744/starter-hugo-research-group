@@ -4,7 +4,7 @@ widget_id: News
 headless: true
 weight: 14
 title: News
-subtitle: Recent news
+subtitle: [List all news →](/news/)
 active: true
 design:
   columns: "2"
