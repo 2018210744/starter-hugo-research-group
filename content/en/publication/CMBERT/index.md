@@ -42,6 +42,9 @@ url_project:
 url_slides:
 url_source: https://github.com/thuiar/Cross-Modal-BERT
 url_video:
+
+- id: btn_globecom
+  translation: 2022 GLOBECOM
 url_globecom: https://www.baidu.com
 
 
