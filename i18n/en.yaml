@@ -81,7 +81,7 @@
 - id: btn_download
   translation: Download
   
-- id: btn_2022_GLOBECOM
+- id: btn_globecom
   translation: 2022 GLOBECOM
 
 # About widget
