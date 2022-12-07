@@ -49,7 +49,7 @@
   translation: Preprint
 
 - id: btn_pdf
-  translation: PDF
+  translation: PDFFFFFFF
 
 - id: btn_cite
   translation: Cite
@@ -80,9 +80,6 @@
 
 - id: btn_download
   translation: Download
-  
-- id: btn_globecom
-  translation: 2022 GLOBECOM
 
 # About widget
 
