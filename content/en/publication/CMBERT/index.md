@@ -38,10 +38,11 @@ url_pdf: https://ieeexplore.ieee.org/abstract/document/9791398
 url_code: https://github.com/thuiar/Cross-Modal-BERT
 url_dataset:
 url_poster:
-url_scholar: https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
+url_project: https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
 url_slides:
 url_source:
 url_video:
+url_2022 GLOBECOM：https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
