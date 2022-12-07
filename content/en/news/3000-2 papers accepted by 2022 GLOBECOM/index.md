@@ -4,7 +4,7 @@
 title: "• 2 papers accepted by 2022 GLOBECOM"
 weight: 3000
 summary: ""
-authors: []
+authors: [HuaXu]
 tags: []
 categories: []
 date: 2022-11-21T15:43:29+08:00
