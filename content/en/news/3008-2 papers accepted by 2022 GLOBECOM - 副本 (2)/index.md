@@ -41,5 +41,5 @@ url_video: ""
 slides: ""
 ---
 
-## • 2 papers accepted by 2022 GLOBECOM<br/>
+# • 2 papers accepted by 2022 GLOBECOM<br/>
 
