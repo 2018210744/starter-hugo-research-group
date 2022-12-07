@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nonlinear Transfrom source-channel coding for Semantic Communications"
-authors: [KaichengYang, HuaXu]
+title: "Nonlinear Transfrom Source-Channel Coding for Semantic Communications"
+authors: [Jincheng Dai]
 date: 2022-08
 doi: ""
 
@@ -35,14 +35,14 @@ featured: true
 # icon: twitter
 
 links:
-- name: 2022 GLOBECOM
+- name: JSAC
   url: https://www.baidu.com
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9791398
-url_code: https://github.com/thuiar/Cross-Modal-BERT
+url_pdf: https://arxiv.org/abs/2112.10961
+url_code: 
 url_dataset:
 url_poster:
-url_project: 
+url_project: https://semcomm.github.io/ntscc/
 url_slides:
 url_source: 
 url_video:
