@@ -38,7 +38,7 @@ url_pdf: https://doi.org/10.1145/3394171.3413690
 url_code: https://github.com/thuiar/Cross-Modal-BERT
 url_dataset:
 url_poster:
-url_project: https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
+url_scholar: https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
 url_slides:
 url_source:
 url_video:
