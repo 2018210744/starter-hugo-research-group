@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Papers"
-subtitle = "[List All Pappers →](/publication/)"
+subtitle = "[List All Papers →](/publication/)"
 
 
 [content]
@@ -16,7 +16,7 @@ subtitle = "[List All Pappers →](/publication/)"
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 10
+  count = 6
   
   # Choose how many pages you would like to offset by
   offset = 0
