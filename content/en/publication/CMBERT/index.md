@@ -35,10 +35,8 @@ featured: true
 # icon: twitter
 
 links:
-- name: Follow
-  url: https://twitter.com
-  icon_pack: fab
-  icon: twitter
+- name: GLOBECOM
+  url: https://www.baidu.com
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9791398
 url_code: https://github.com/thuiar/Cross-Modal-BERT
@@ -46,7 +44,7 @@ url_dataset:
 url_poster:
 url_project: 
 url_slides:
-url_source: https://github.com/thuiar/Cross-Modal-BERT
+url_source: 
 url_video:
 
 
