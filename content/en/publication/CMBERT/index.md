@@ -42,6 +42,7 @@ url_project:
 url_slides:
 url_source: https://github.com/thuiar/Cross-Modal-BERT
 url_video:
+url_globecom: https://www.baidu.com
 
 
 # Featured image
