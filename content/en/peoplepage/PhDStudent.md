@@ -3,7 +3,7 @@ widget: blank
 widget_id: Ph.D Student
 headless: true
 weight: 20
-title: Faculty
+title: Ph.D Student
 subtitle: Ph.D students list
 active: true
 design:
