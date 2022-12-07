@@ -4,7 +4,7 @@ widget_id: News
 headless: true
 weight: 14
 title: News
-subtitle: [List all news →](/news/)
+subtitle:  "[List All Papers →](/publication/)"
 active: true
 design:
   columns: "2"
