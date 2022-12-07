@@ -23,7 +23,7 @@ abstract: "Multimodal sentiment analysis is an emerging research field that aims
 
 
 tags: [jakljdk]
-categories: []
+categories: [888999]
 featured: true
 
 # Custom links (optional).
@@ -42,6 +42,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
+url_JSAC: https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
