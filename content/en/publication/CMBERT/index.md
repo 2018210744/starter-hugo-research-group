@@ -4,7 +4,7 @@
 title: "CM-BERT: Cross-Modal BERT for Text-Audio Sentiment Analysis"
 authors: [KaichengYang, HuaXu]
 date: 2020-10-12
-doi: "10.1145/3394171.3413690"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-09-01T16:24:04+08:00
@@ -37,10 +37,10 @@ featured: true
 url_pdf: https://doi.org/10.1145/3394171.3413690
 url_code: https://github.com/thuiar/Cross-Modal-BERT
 url_dataset:
-url_poster:
-url_project:
+url_poster:https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
+url_project:https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
 url_slides:
-url_source:
+url_source:https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
 url_video:
 url_JSAC: https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
 
