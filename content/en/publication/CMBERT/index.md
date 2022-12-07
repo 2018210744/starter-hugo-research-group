@@ -42,7 +42,7 @@ url_project: https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&vie
 url_slides:
 url_source:
 url_video:
-url_2022 GLOBECOM：https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
+url_2022_GLOBECOM：https://scholar.google.com/citations?hl=zh-CN&user=0I_YtFsAAAAJ&view_op=list_works&sortby=pubdate
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
