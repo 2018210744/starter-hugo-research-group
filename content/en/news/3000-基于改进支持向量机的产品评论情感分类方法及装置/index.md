@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 基于改进支持向量机的产品评论情感分类方法及装置
+title: <font color=black>基于改进支持向量机的产品评论情感分类方法及装置</font>
 weight: 3000
 summary: ""
 authors: [HuaXu]
