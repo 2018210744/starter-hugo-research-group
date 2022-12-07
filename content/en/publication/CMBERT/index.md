@@ -35,7 +35,7 @@ featured: true
 # icon: twitter
 
 links:
-- name: GLOBECOM
+- name: 2022 GLOBECOM
   url: https://www.baidu.com
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9791398
