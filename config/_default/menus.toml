@@ -18,10 +18,10 @@
   url = "#papers"
   weight = 30
 
-[[main]]
-  name = "People Page"
-  url = "/peoplepage"
-  weight = 40
+#[[main]]
+#  name = "People Page"
+#  url = "/peoplepage"
+#  weight = 40
 
 [[main]]
   name = "People"
