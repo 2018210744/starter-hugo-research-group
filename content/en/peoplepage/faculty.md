@@ -15,11 +15,6 @@ design:
     gradient_start: "#ffffff"
     gradient_end: "#ffffff"
 ---
-#  [• First teacher](/../author/hua-xu/)<br/>
-#  [• Second teacher](../people/hua-x)<br/>
-[• Third new 3333333](/people/hua-xu)
-  <br/>
-  • Forth new 4444444
-<br/>
-  • Fifth new 5555555
-<br/>
+[• First teacher](/../author/hua-xu/)&nbsp;&nbsp;&nbsp;<br/>
+[• Second teacher](/../author/junhui-deng/)&nbsp;&nbsp;<br/>
+[• Third new 3333333](/../author/xiaomin-sun/)&nbsp;&nbsp;<br/>
