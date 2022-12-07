@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Papers"
-subtitle = "[List All News →](/news/)"
+subtitle = "[List All Papers →](/publication/)"
 
 
 [content]
