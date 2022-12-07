@@ -49,7 +49,7 @@
   translation: Preprint
 
 - id: btn_pdf
-  translation: PDFFFFFFF
+  translation: PDF
 
 - id: btn_cite
   translation: Cite
