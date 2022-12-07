@@ -13,6 +13,6 @@ design:
     image_darken: 0
     
 ---
-[• First teacher](/../author/hua-xu/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
-[• Second teacher](/../author/junhui-deng/)&nbsp;&nbsp;<br/>
-[• Third new 3333333](/../author/xiaomin-sun/)&nbsp;&nbsp;<br/>
+[• First teacher](/../author/hua-xu/)<br/>
+[• Second teacher](/../author/junhui-deng/)<br/>
+[• Third teacher](/../author/xiaomin-sun/)<br/>
