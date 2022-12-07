@@ -34,6 +34,12 @@ featured: true
 # icon_pack: fab
 # icon: twitter
 
+links:
+- name: Follow
+  url: https://twitter.com
+  icon_pack: fab
+  icon: twitter
+
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9791398
 url_code: https://github.com/thuiar/Cross-Modal-BERT
 url_dataset:
@@ -43,9 +49,7 @@ url_slides:
 url_source: https://github.com/thuiar/Cross-Modal-BERT
 url_video:
 
-- id: btn_globecom
-  translation: 2022 GLOBECOM
-url_globecom: https://www.baidu.com
+
 
 
 # Featured image
