@@ -14,9 +14,7 @@ design:
     
 ---
 
-  • [2022-07]<font color=red> 2 papers accepted by **2022 GLOBECOM**.</font><br/>
-  • [2022-05]<font color=red> 2 papers accepted by **2022 GLOBECOM**.</font><br/>
-  • Forth new 4444444
-<br/>
-  • Fifth new 5555555
-<br/>
+• [2022-07]<font color=red> 2 papers accepted by **2022 GLOBECOM**.</font><br/>
+• [2022-05]<font color=red> 2 papers accepted by **2022 GLOBECOM**.</font><br/>
+• Forth new 4444444 <br/>
+• Fifth new 5555555 <br/>
