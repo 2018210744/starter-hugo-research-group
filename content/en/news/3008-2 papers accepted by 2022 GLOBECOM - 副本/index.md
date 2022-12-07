@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "• 2 papers accepted by 2022 JSAC"
+title: ""
 weight: 3000
 summary: ""
 authors: []
@@ -40,3 +40,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+# • 2 papers accepted by 2022 GLOBECOM<br/>
+
