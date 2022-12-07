@@ -45,6 +45,9 @@
 
 # Buttons
 
+- id: btn_globecom
+  translation: 2022 GLOBECOM
+  
 - id: btn_preprint
   translation: Preprint
 
@@ -81,8 +84,6 @@
 - id: btn_download
   translation: Download
 
-- id: btn_globecom
-  translation: 2022 GLOBECOM
 # About widget
 
 - id: interests
