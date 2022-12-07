@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: <font color=black>基于改进支持向量机的产品评论情感分类方法及装置</font>
+title: 基于改进支持向量机的产品评论情感分类方法及装置
 weight: 3000
 summary: ""
-authors: [HuaXu]
+authors: []
 tags: []
 categories: []
-date: 2020-02-21T15:43:29+08:00
+date: 
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://patents.google.com/patent/CN106844632A/zh"
+#external_link: "https://patents.google.com/patent/CN106844632A/zh"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
