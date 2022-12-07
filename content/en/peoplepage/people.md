@@ -15,8 +15,8 @@ design:
     gradient_start: "#ffffff"
     gradient_end: "#ffffff"
 ---
-#  [• First teacher](../author/hua-xu/)<br/>
-#  [• Second teacher](https://www.baidu.com/)<br/>
+#  [• First teacher](/../author/hua-xu/)<br/>
+#  [• Second teacher](../people/hua-x)<br/>
 [• Third new 3333333](/people/hua-xu)
   <br/>
   • Forth new 4444444
