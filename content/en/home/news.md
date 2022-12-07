@@ -16,10 +16,10 @@ design:
 • First new 11111111<br/>
 • <font color=red> 
   2 papers accepted by **2022 GLOBECOM**.
-<\font>
+</font>
 <br/>
 • <font color=blue> 
   2 papers accepted by **2022 GLOBECOM**. 
-<\font>
+</font>
 <br/>
 • Third new 3333333
