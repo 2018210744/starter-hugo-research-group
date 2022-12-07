@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "• 2 papers accepted by 2022 GLOBECOM"
-weight: 3000
+title: "• 7 papers accepted by 2022 GLOBECOM"
+weight: 3007
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2022-11-21T15:43:29+08:00
+date: 2022-02-21T15:43:29+08:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://patents.google.com/patent/CN106844632A/zh"
+# external_link: "https://patents.google.com/patent/CN106844632A/zh"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
