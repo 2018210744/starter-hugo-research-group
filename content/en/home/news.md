@@ -13,8 +13,8 @@ design:
     image_darken: 0
 
 ---
-#  • First new 11111111<br/>
-#  <font color=red>• First new 11111111</font><br/>
-#  • Second new 2222222
+• First new 11111111<br/>
+• <font color=red> 2 papers accepted by **2022 GLOBECOM**.<br/>
+• Second new 2222222
 <br/>
-  • Third new 3333333
+• Third new 3333333
