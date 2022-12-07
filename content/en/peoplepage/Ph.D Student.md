@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Faculty
 headless: true
-weight: 10
+weight: 20
 title: Faculty
 subtitle: faculty list
 active: true
