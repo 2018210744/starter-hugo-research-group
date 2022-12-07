@@ -40,7 +40,7 @@ url_dataset:
 url_poster:
 url_project: 
 url_slides:
-url_globle: https://github.com/thuiar/Cross-Modal-BERT
+url_source: https://github.com/thuiar/Cross-Modal-BERT
 url_video:
 
 
