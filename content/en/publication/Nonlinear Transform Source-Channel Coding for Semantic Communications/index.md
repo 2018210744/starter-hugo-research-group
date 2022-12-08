@@ -1,7 +1,7 @@
 ---
 
 title: "Nonlinear Transform Source-Channel Coding for Semantic Communications"
-authors: [Jincheng Dai]
+authors: [JinchengDai]
 date: 2022-08
 doi: ""
 
