@@ -35,7 +35,7 @@ featured: true
 
 links:
 - name: JSAC
-  # url: https://www.baidu.com
+  url: 
 
 url_pdf: https://arxiv.org/abs/2112.10961
 url_code: 
