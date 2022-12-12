@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: "IEEE Wireless Communications"
 publication_short: "IEEE Wirel Commun"
 
-abstract: "Classical communication paradigms focus on accurately transmitting bits over a noisy channel, and Shannon theoty provides a fundamental theoretical limit on the rate of reliable communications. "
+abstract: "Classical communication paradigms focus on accurately transmitting bits over a noisy channel, and Shannon theoty provides a fundamental theoretical limit on the rate of reliable communications. In this "
 
 tags: [Semantic, Source Coding, Channel Coding]
 categories: [semantic comm]
