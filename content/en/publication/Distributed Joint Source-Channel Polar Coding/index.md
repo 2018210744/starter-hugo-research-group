@@ -18,7 +18,7 @@ publication_types: ["1"]
 publication: "IEEE International Symposium on Information Theory "
 publication_short: "IEEE ISIT"
 
-abstract: 
+abstract: In this paper, we propose a new class of distributed joint source-channel coding 
 
 
 tags: []
