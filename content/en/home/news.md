@@ -13,7 +13,7 @@ design:
     image_darken: 0
 
 ---
-• [2022-12] 2 papers accepted by **2023 WCNC**.<br/>
-• [2022-08] 2 papers accepted by **2022 GLOBECOM**.<br/>
-• <font color=blue>2 papers accepted by **2022 GLOBECOM**. </font><br/>
+• [2022-12] <font face=consolas> *2 papers* accepted by **2023 WCNC**.</font><br/>
+• [2022-08] <font face=consolas> *2 papers* accepted by **2022 GLOBECOM**.</font><br/>
+• <font face=consolas color=blue>2 papers accepted by **2022 GLOBECOM**. </font><br/>
 
