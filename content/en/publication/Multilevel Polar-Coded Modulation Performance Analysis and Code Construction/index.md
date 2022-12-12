@@ -8,18 +8,6 @@ doi: "10.1109/GLOBECOM46510.2021.9685421"
 # Schedule page publish date (NOT publication's date).
 publishDate:2021-12-01T16:24:04+08:00
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
-
-# Publication name and optional abbreviated publication name.
-publication: "IEEE Conference and Exhibition on Global Telecommunications "
-publication_short: "IEEE GLOBECOM"
-
-abstract:
-
 
 tags: []
 categories: []
