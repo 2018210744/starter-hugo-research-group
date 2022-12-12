@@ -1,12 +1,12 @@
 ---
 
 title: "Communication Beyond Transmitting Bits: Semantics-Guided Source and Channel Coding"
-authors: [JinchengDai, PingZhang, KaiNiu, SixianWang, ZhongweiSi, XiaoqiQin]
-date: 2022-08
+authors: [JinchengDai, SixianWang, KailinTan, ZhongweiSi, XiaoqiQin, KaiNiu, PingZhang]
+date: 2022-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-09-01T16:24:04+08:00
+publishDate: 2022-08-01T16:24:04+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,12 +15,12 @@ publishDate: 2020-09-01T16:24:04+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Wireless Communications"
-publication_short: "IEEE Wirel Commun"
+publication: "IEEE Journal on Selected Areas in Communications"
+publication_short: "IEEE JSAC"
 
-abstract: "Classical communication paradigms focus on accurately transmitting bits over a noisy channel, and Shannon theory provides a fundamental theoretical limit on the rate of reliable communications. In this approach, bits are treated equally, and the communication system is oblivious to what meaning these bits convey or how they would be used. Future communications towards intelligence and conciseness will predictably play a dominant role, and the proliferation of connected intelligent agents requires a radical rethinking of coded transmission paradigm to support the new communication morphology on the horizon. The recent concept of "semantic communications" offers a promising research direction. Injecting semantic guidance into the coded transmission design to achieve semantics-aware communications shows great potential for further breakthrough in effectiveness and reliability. This article sheds light on semantics-guided source and channel coding as a transmission paradigm of semantic communications, which exploits both data semantics diversity and wireless channel diversity together to boost the whole system performance. We present the general system architecture and key techniques, and indicate some open issues on this topic. "
+abstract: "In this paper, we propose a class of high-efficiency deep joint source-channel coding methods that can closely adapt to the source distribution under the nonlinear transform, it can be collected under the name nonlinear transform source-channel coding (NTSCC). In the considered model, the transmitter first learns a nonlinear analysis transform to map the source data into latent space, then transmits the latent representation to the receiver via deep joint source-channel coding. Our model incorporates the nonlinear transform as a strong prior to effectively extract the source semantic features and provide side information for source-channel coding. Unlike existing conventional deep joint source-channel coding methods, the proposed NTSCC essentially learns both the source latent representation and an entropy model as the prior on the latent representation. Accordingly, novel adaptive rate transmission and hyperprior-aided codec refinement mechanisms are developed to upgrade deep joint source-channel coding. The whole system design is formulated as an optimization problem whose goal is to minimize the end-to-end transmission rate-distortion performance under established perceptual quality metrics. Across test image sources with various resolutions, we find that the proposed NTSCC transmission method generally outperforms both the analog transmission using the standard deep joint source-channel coding and the classical separation-based digital transmission. Notably, the proposed NTSCC method can potentially support future semantic communications due to its content-aware ability and perceptual optimization goal. "
 
-tags: [Semantic, Source Coding, Channel Coding]
+tags: [Image, Nonlinear Transform, Semantic]
 categories: [semantic comm]
 featured: true
 
@@ -33,10 +33,10 @@ featured: true
 # icon: twitter
 
 links:
-- name: Wirel Commun
+- name: JSAC
   url: 
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9852388
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9791398
 url_code: 
 url_dataset:
 url_poster:
@@ -69,5 +69,4 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-
 ---
