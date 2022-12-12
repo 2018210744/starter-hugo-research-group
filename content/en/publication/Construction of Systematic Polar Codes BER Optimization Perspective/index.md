@@ -1,12 +1,12 @@
 ---
 
-title: "Asynchronous Polar-Coded MIMO"
-authors: [JinXu, JinchengDai, DexinZhang, KaiNiu]
-date: 2021-03
-doi: "10.1109/WCNC49053.2021.9417545"
+title: "Construction of Systematic Polar Codes BER Optimization Perspective"
+authors: [BolinWu,KaiNiu,JinchengDai]
+date: 2021-04
+doi: "10.1109/ITW46852.2021.9457620"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-03-01T16:24:04+08:00
+publishDate: 2021-04-01T16:24:04+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,10 +15,10 @@ publishDate: 2021-03-01T16:24:04+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Wireless Communitions and Networking Conference"
-publication_short: "IEEE WCNC"
+publication: "IEEE Information Theory Workshop"
+publication_short: "IEEE ITW"
 
-abstract: In this paper, a novel polar-coded MIMO (PC-MIMO) framework is proposed to enhance the system polar-ization effect so that the transmission reliability is improved. The key idea is asynchronously transmitting coded bits within one block and then spatially coupling multiple blocks by joint antenna mapping. This consequently leads to the enhancement of the polarization diversity among antenna subchannels under finite block length. Combining with binary polar coding, the gain achieved by the antenna subchannel polarization is finally propagated to bit polarized channels. The proposed asynchronous PC-MIMO is proved to be capacity-achieving under infinite block length and to realize performance gain with respect to synchronous PC-MIMO under finite block length.
+abstract: Code construction is a critical issue for polar coding. The expected construction method is of an accurate estimate of the reliability of bit-channels, but the current methods usually require high computational complexity. In this paper, we concern the input-output weight distribution of each bit-channel and derive its recursive calculation algorithm for systematic coding. The union bound and union-Bhattacharyya bound on the bit error probability are also derived to evaluate the reliability of bit-channels. Furthermore, by calculating the logarithmic form of the union-Bhattacharyya bound, we also propose two novel construction methods named the union-Bhattacharyya bound weight of the bit error probability (UBWB) and the simplified UBWB (SUBWB). Numerical results show that the proposed UBWB/SUBWB construction methods can achieve comparable performance to current methods under successive cancellation (SC) decoding and obtain obvious performance gain under SC list (SCL) decoding.
 
 
 tags: []
@@ -34,10 +34,10 @@ featured: true
 # icon: twitter
 
 links:
-- name: WCNC
+- name: ITW
   url: 
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9417545
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9457620
 url_code: 
 url_dataset:
 url_poster:

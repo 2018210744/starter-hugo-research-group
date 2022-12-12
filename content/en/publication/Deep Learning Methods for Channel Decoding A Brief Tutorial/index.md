@@ -1,12 +1,12 @@
 ---
 
-title: "Asynchronous Polar-Coded MIMO"
-authors: [JinXu, JinchengDai, DexinZhang, KaiNiu]
-date: 2021-03
-doi: "10.1109/WCNC49053.2021.9417545"
+title: "Deep Learning Methods for Channel Decoding A Brief Tutorial"
+authors: [KaiNiu,JinchengDai,KailinTan,JianGao]
+date: 2021-07
+doi: "10.1109/ICCC52777.2021.9580304"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-03-01T16:24:04+08:00
+publishDate: 2021-07-01T16:24:04+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,10 +15,10 @@ publishDate: 2021-03-01T16:24:04+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Wireless Communitions and Networking Conference"
-publication_short: "IEEE WCNC"
+publication: "IEEE International Conference on Communications in China "
+publication_short: "IEEE ICCC"
 
-abstract: In this paper, a novel polar-coded MIMO (PC-MIMO) framework is proposed to enhance the system polar-ization effect so that the transmission reliability is improved. The key idea is asynchronously transmitting coded bits within one block and then spatially coupling multiple blocks by joint antenna mapping. This consequently leads to the enhancement of the polarization diversity among antenna subchannels under finite block length. Combining with binary polar coding, the gain achieved by the antenna subchannel polarization is finally propagated to bit polarized channels. The proposed asynchronous PC-MIMO is proved to be capacity-achieving under infinite block length and to realize performance gain with respect to synchronous PC-MIMO under finite block length.
+abstract: The recent development of deep learning methods demonstrates a new insight to optimize the decoding of linear codes. In this paper, we survey the typical neural network decoding methods, including data-driven and model-driven schemes. We investigate the design principle, algorithm mechanism, parameter assignment, and training process of these neural decoders for high-density parity check (HDPC), low-density paritycheck (LDPC), and polar codes. Finally, we summarize the advantages of neural network decoding and point out some research directions in the future.
 
 
 tags: []
@@ -34,10 +34,10 @@ featured: true
 # icon: twitter
 
 links:
-- name: WCNC
-  url: 
+- name: ICCC
+  url:
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9417545
+url_pdf: https://ieeexplore.ieee.org/xpl/conhome/9579484/proceeding
 url_code: 
 url_dataset:
 url_poster:
