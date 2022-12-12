@@ -1,41 +1,49 @@
 ---
 # Display name
-title: Jincheng Dai  #（显示）
-weight: 3
+title: Hua Xu
+weight: 1
 
 # Username (this should match the folder name)
 authors:
-- JinchengDai   
-# 文件夹名 照片放在目录里 命名为avatar.jpg or avatar.png
+- HuaXu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Supervisor
+role: Tenured Associate Professor, Associate Editor of Expert Systems with Application, Ph.D Supervisor
 
 # Organizations/Affiliations
-# organizations:
-# - name: Beijing University of Post and Telecommunication
-#   url: "https://www.bupt.edu.cn"
+organizations:
+- name: Tsinghua University
+  url: "https://www.tsinghua.edu.cn/"
 
-# Short bio (displayed in user profile at end of posts)
-bio:I am currently with the Key Laboratory of Universal Wireless Communications, Ministry of Education, Beijing University of Posts and Telecommunications. My research focus on semantic communications, source and channel coding, machine learning for communications.
-
-interests:
-- Semantic communications
-- source and channel coding
-- machine learning for communications
-- Semantic communication
-
-# education:
-#   courses:
-#   - course: Computer Science Postgraduate Student
-#     institution: Tsinghua University
-#     year: 2019
-#   - course: Electrical Engineering and Automation Bachelor's Degree
-#     institution: North China Electric Power University
-#     year: 2015
+education:
+  courses:
+  - course: Computer Science Tenured Associate Professor
+    institution: Tsinghua University
+    year: 2016
+  - course: Computer Science Visiting Scholar (short-term)
+    institution: University of Technology Sydney, Royal Melbourne Institute of Technology
+    year: 2012.10, 2013.2, 2014.9, 2016.9-2016.10, 2017.4-2017.5
+  - course: Computer Science Visiting Scholar (short-term)
+    institution: Hong Kong University
+    year: 2011.12, 2012.6, 2012.8
+  - course: Computer Science Associate Researcher
+    institution: Tsinghua University
+    year: 2006
+  - course: Computer Science Assistant Researcher
+    institution: Tsinghua University
+    year: 2003
+  - course: Computer Science Ph.D
+    institution: Tsinghua University
+    year: 2000
+  - course: Computer Science Master's Degree
+    institution: Tsinghua University
+    year: 1998
+  - course: Computer Science Bachelor's Degree
+    institution: Xi'an Jiaotong University
+    year: 1994
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,20 +52,16 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'daijincheng@bupt.edu.cn'  
-# For a direct email link, use "mailto:test@example.org".  改成邮箱，不提供comment这3行
-
+  link: 'mailto:xuhua@tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=0I_YtFsAAAAJ   
-# 没有的话也comment
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/lhd777
-# 没有的话也comment
+# - icon: google-scholar
+#   icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,12 +69,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: "lihd19@mails.tsinghua.edu.cn"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# ["Supervisor", "Researcher", "Ph.D Student","Postgraduate Student","Visting Postgraduate Student","Research Intern","Visiting Scholar","Graduated"]  选一个
-user_groups:   
-- Supervisor   
+user_groups:
+- Supervisor
 ---
+
 
