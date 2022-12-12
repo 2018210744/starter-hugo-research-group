@@ -1,49 +1,31 @@
 ---
 # Display name
-title: Hua Xu
+title: Kai Niu
 weight: 1
 
 # Username (this should match the folder name)
 authors:
-- HuaXu
+- KaiNiu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Tenured Associate Professor, Associate Editor of Expert Systems with Application, Ph.D Supervisor
+role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Tsinghua University
-  url: "https://www.tsinghua.edu.cn/"
+- name: Beijing University of Posts and Telecommunications
+  url: "https://www.bupt.edu.cn/"
 
-education:
-  courses:
-  - course: Computer Science Tenured Associate Professor
-    institution: Tsinghua University
-    year: 2016
-  - course: Computer Science Visiting Scholar (short-term)
-    institution: University of Technology Sydney, Royal Melbourne Institute of Technology
-    year: 2012.10, 2013.2, 2014.9, 2016.9-2016.10, 2017.4-2017.5
-  - course: Computer Science Visiting Scholar (short-term)
-    institution: Hong Kong University
-    year: 2011.12, 2012.6, 2012.8
-  - course: Computer Science Associate Researcher
-    institution: Tsinghua University
-    year: 2006
-  - course: Computer Science Assistant Researcher
-    institution: Tsinghua University
-    year: 2003
-  - course: Computer Science Ph.D
-    institution: Tsinghua University
-    year: 2000
-  - course: Computer Science Master's Degree
-    institution: Tsinghua University
-    year: 1998
-  - course: Computer Science Bachelor's Degree
-    institution: Xi'an Jiaotong University
-    year: 1994
+interests:
+- coding theory
+- space-time codes
+- broadband wireless communication
+- 
+# Short bio (displayed in user profile at end of posts)
+bio: 
+- my research interests include coding theory and its applications, space-time codes and broadband wireless communication.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,13 +34,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:xuhua@tsinghua.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'niukai@bupt.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=Dm9tNxoAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
