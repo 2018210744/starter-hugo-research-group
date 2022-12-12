@@ -41,7 +41,7 @@ separated source and channel coding, e.g., BPG + LDPC. "
 
 tags: [Image, Semantic]
 categories: [semantic comm]
-featured: true
+featured: False
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

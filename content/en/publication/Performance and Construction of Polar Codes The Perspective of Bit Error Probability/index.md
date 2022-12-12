@@ -22,8 +22,8 @@ abstract: Most existing works of polar codes focus on the analysis of block erro
 
 
 tags: []
-categories: []
-featured: true
+categories: [arxiv]
+featured: False
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
