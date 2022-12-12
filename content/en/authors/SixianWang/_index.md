@@ -12,7 +12,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student
+role: Ph.D Student
 
 # Organizations/Affiliations
 # organizations:
@@ -44,7 +44,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'sixian@bupt.edu.cn'  
+  link: 'mailto:sixian@bupt.edu.cn'  
 # For a direct email link, use "mailto:test@example.org".  改成邮箱，不提供comment这3行
 
 # - icon: twitter
