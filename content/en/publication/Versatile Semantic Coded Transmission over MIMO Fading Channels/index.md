@@ -1,7 +1,7 @@
 ---
 
 title: "Versatile Semantic Coded Transmission over MIMO Fading Channels"
-authors: [JinchengDai, SixianWang, ShengshiYao, KaiNiu, PingZhang]
+authors: [ShengshiYao, SixianWang, JinchengDai, KaiNiu, PingZhang]
 date: 2022-11
 doi: ""
 
