@@ -11,19 +11,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor
+role: Supervisor
 
 # Organizations/Affiliations
-organizations:
-- name: Beijing University of Posts and Telecommunications
-  url: "https://www.bupt.edu.cn/"
+# organizations:
+# - name: Tsinghua University
+#  url: "https://www.tsinghua.edu.cn/"
 
 interests:
-- coding theory
-- space-time codes
-- broadband wireless communication
-
-
+- Semantic communications
+- source and channel coding
+- machine learning for communications
+- Semantic communication
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -32,13 +31,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: ''niukai@bupt.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'daijincheng@bupt.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=Dm9tNxoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=0I_YtFsAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
