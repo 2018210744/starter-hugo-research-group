@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: "IEEE Wireless Communications"
 publication_short: "IEEE Wirel Commun"
 
-abstract: "Classical communication paradigms focus on accurately transmitting bits over a noisy channel, and Shannon theoty provides a fundamental theoretical limit on the rate of reliable communications. In this "
+abstract: Classical communication paradigms focus on accurately transmitting bits over a noisy channel, and Shannon theoty provides a fundamental theoretical limit on the rate of reliable communications. In this approach, bits are treated equally, and the communication system is oblivious to what meaning these bits convey or how they would be used. Future communications towards intelligence and conciseness will predictably play a dominant role, and the proliferationThe recent concept of "semantic communications" offers a promising research direction. Injecting semantic guidance into the coded transmission design to achieve semantics-aware communications shows great potential for further breakthrough in effectiveness and reliability. This article sheds light on semantics-guided source and channel coding as a transmission paradigm of semantic communications, which exploits both data semantics diversity and wireless channel diversity together to boost the whole system performance. We present the general system architecture and key techniques, and indicate some open issues on this topic.
 
 tags: [Semantic, Source Coding, Channel Coding]
 categories: [semantic comm]
