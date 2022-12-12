@@ -13,7 +13,7 @@ design:
     image_darken: 0
 
 ---
-• First new 11111111<br/>
-• <font color=red>2 papers accepted by **2022 GLOBECOM**.</font><br/>
+• [2022-12] 2 papers accepted by **2023 WCNC**.<br/>
+• [2022-08] 2 papers accepted by **2022 GLOBECOM**.<br/>
 • <font color=blue>2 papers accepted by **2022 GLOBECOM**. </font><br/>
-• Third new 3333333
+
