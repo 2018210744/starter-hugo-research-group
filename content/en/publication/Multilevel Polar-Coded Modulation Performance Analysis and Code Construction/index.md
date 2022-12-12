@@ -8,31 +8,19 @@ doi: "10.1109/GLOBECOM46510.2021.9685421"
 # Schedule page publish date (NOT publication's date).
 publishDate:2021-12-01T16:24:04+08:00
 
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
 
-tags: []
-categories: []
-featured: true
+# Publication name and optional abbreviated publication name.
+publication: "IEEE Conference and Exhibition on Global Telecommunications"
+publication_short: "IEEE GLOBECOM"
 
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-# url: https://twitter.com
-# icon_pack: fab
-# icon: twitter
+abstract: "Multilevel polar-coded modulation with multistage decoding is a capacity-achieving coded modulation scheme. Inthis paper, we propose a general formulation for analyzing the performance of multilevel polar-coded modulation and then derive the error probability upper bounds. The analysis explicitly reveals the effect of the modulation scheme on the performance of component polar codes. Based on the derived upper bounds, we also propose two construction methods for multilevel polarcoded modulation. Compared with conventional methods, such as density evolution and Gaussian approximation which involve complicated recursive calculations, the proposed methods have a linear computational complexity. Simulation results also show that the proposed construction methods can achieve comparable performance to existing methods under SC decoding, and even better performance under SC list decoding."
 
-links:
-- name: GLOBECOM
-  url: 
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9685421
-url_code: 
-url_dataset:
-url_poster:
-url_project: 
-url_slides:
-url_source: 
-url_video:
 
 
 
