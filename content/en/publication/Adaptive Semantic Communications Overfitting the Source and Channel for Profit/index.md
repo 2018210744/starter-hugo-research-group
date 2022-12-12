@@ -33,7 +33,7 @@ featured: true
 # icon: twitter
 
 links:
-- name: JSAC
+- name: arxiv
   url: 
 
 url_pdf: https://arxiv.org/abs/2211.04339
