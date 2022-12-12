@@ -1,7 +1,7 @@
 ---
 
 title: "A Novel Deep Learning Architecture for Wireless Image Transmission"
-authors: [JinchengDai, SixianWang, ShengshiYao, KaiNiu, PingZhang]
+authors: [SixianWang,JinchengDai, ShengshiYao, KaiNiu, PingZhang]
 date: 2021-12
 doi: "10.1109/GLOBECOM46510.2021.9685036"
 
