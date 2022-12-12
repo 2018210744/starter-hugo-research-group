@@ -22,8 +22,8 @@ abstract: For the upcoming 6G wireless networks, a new wave of applications and 
 
 
 tags: []
-categories: []
-featured: true
+categories: [arxiv]
+featured: False
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
