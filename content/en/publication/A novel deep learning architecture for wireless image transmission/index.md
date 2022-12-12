@@ -1,9 +1,9 @@
 ---
 
-title: "A novel deep learning architecture for wireless image transmission"
+title: "A Novel Deep Learning Architecture for Wireless Image Transmission"
 authors: [JinchengDai, SixianWang, ShengshiYao, KaiNiu, PingZhang]
 date: 2021-12
-doi: ""
+doi: "10.1109/GLOBECOM46510.2021.9685036"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-12-01T16:24:04+08:00
