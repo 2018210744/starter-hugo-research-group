@@ -1,18 +1,18 @@
 ---
 # Display name
-title:Kailin Tan   #（显示）
+title: Kailin Tan  #（显示）
 weight: 2
 
 # Username (this should match the folder name)
 authors:
-- KailinTan   
+- Kailin Tan
 # 文件夹名 照片放在目录里 命名为avatar.jpg or avatar.png
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Student
+role: Ph.D Student
 
 # Organizations/Affiliations
 # organizations:
@@ -44,15 +44,15 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'tankailin@bupt.edu.cn'  
+  link: 'mailto:tankailin@bupt.edu.cn'  
 # For a direct email link, use "mailto:test@example.org".  改成邮箱，不提供comment这3行
 
 # - icon: twitter
 #   icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?hl=en&user=f9s8H6UAAAAJ 
+#   link: https://twitter.com/GeorgeCushen
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?hl=en&user=f9s8H6UAAAAJ 
 # 没有的话也comment
 #- icon: github
 #  icon_pack: fab
