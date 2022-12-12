@@ -18,7 +18,7 @@ publication_types: ["1"]
 publication: "IEEE International Symposium on Information Theory "
 publication_short: "IEEE ISIT"
 
-abstract: In this paper, we propose a new class of distributed joint source-channel coding (DJSCC) methods,
+abstract: In this paper, we propose a new class of distributed joint source-channel coding (DJSCC) methods, namely triple polar codes (T-PC), for transmitting a pair of correlated binary sources over noisy channels. In the T-PC structure, one source is protected by a systematic polar code  (SPC), and the other source is encoded into a double polar code (D-PC) word. Following this, we prove the T-PC approaches the corner point of the achievable rate-region of DJSCC. We further propose a distributed joint source-channel decoding algorithm, which involves two components: a cyclic redundancy check (CRC) aided successive cancellation list (CA-SCL) decoding of the SPC and a joint successive cancellation list (J-SCL) decoding of the D-PC. The CA-SCL and J-SCL decoding procedures alternately generate hard-decisions of sources which are iteratively exchanged as the side information and result in superior performance compared with the state-of-the-art polar code based DJSCC scheme.
 
 tags: []
 categories: []
