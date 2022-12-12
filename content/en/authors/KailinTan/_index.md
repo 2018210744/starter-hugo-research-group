@@ -72,4 +72,4 @@ social:
 user_groups:   
 - Ph.D Student
 ---
-
+My research include semantic communications, source and channel cod- ing, and machine learning.
