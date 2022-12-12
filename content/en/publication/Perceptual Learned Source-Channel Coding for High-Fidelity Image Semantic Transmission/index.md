@@ -33,7 +33,7 @@ featured: true
 # icon: twitter
 
 links:
-- name: GC
+- name: GLOBECOM
   url: 
 
 url_pdf: https://arxiv.org/abs/2205.13120
