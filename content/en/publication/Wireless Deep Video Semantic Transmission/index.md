@@ -1,7 +1,7 @@
 ---
 
 title: "Nonlinear Transform Source-Channel Coding for Semantic Communications"
-authors: [JinchengDai, SixianWang, ZijianLiang, KaiNiu, ZhongweiSi, ChaoDong, XiaoqiQin, PingZhang]
+authors: [SixianWang, JinchengDai, ZijianLiang, KaiNiu, ZhongweiSi, ChaoDong, XiaoqiQin, PingZhang]
 date: 2022-10
 doi: ""
 
