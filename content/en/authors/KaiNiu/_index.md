@@ -55,5 +55,5 @@ email: ""
 user_groups:
 - Supervisor
 ---
-
+My research interests include coding theory and its applications, space-time codes and broadband wireless communication.
 
