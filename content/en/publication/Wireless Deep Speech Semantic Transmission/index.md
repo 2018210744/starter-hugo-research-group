@@ -1,7 +1,7 @@
 ---
 
 title: "Wireless Deep Speech Semantic Transmission"
-authors: [JinchengDai, SixianWang, ZixuanXiao, ShengshiYao, KaiNiu, PingZhang]
+authors: [ZixuanXiao, ShengshiYao, JinchengDai, SixianWang, KaiNiu, PingZhang]
 date: 2022-11
 doi: ""
 
