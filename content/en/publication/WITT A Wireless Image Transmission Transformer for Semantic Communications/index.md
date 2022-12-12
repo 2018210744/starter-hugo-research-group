@@ -1,7 +1,7 @@
 ---
 
 title: "WITT: A Wireless Image Transmission Transformer for Semantic Communications"
-authors: [JinchengDai, SixianWang, KeYang, KailinTan, KaiNiu, PingZhang]
+authors: [KeYang, SixianWang, JinchengDai, KailinTan, KaiNiu, PingZhang]
 date: 2022-11
 doi: ""
 
