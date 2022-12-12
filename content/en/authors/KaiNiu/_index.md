@@ -14,9 +14,9 @@ superuser: true
 role: Professor
 
 # Organizations/Affiliations
-# organizations:
-# - name: Tsinghua University
-#  url: "https://www.tsinghua.edu.cn/"
+organizations:
+- name: Beijing University of Posts and Telecommunications
+  url: "https://www.bupt.edu.cn/"
 
 interests:
 - coding theory
