@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jincheng Dai  #（显示）
-weight: 2
+weight: 3
 
 # Username (this should match the folder name)
 authors:
@@ -16,16 +16,16 @@ role: Supervisor
 
 # Organizations/Affiliations
 # organizations:
-# - name: Tsinghua University
-#   url: "https://www.tsinghua.edu.cn/"
+# - name: Beijing University of Post and Telecommunication
+#   url: "https://www.bupt.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research direction is medical image processing, reinforcement learning, multi-task learning, and multi-modal learning.
+bio:I am currently with the Key Laboratory of Universal Wireless Communications, Ministry of Education, Beijing University of Posts and Telecommunications. My research focus on semantic communications, source and channel coding, machine learning for communications.
 
 interests:
-- Medical Image Processing
-- Reinforcement Learning
-- Multi-task Learning
+- Semantic communications
+- source and channel coding
+- machine learning for communications
 - Semantic communication
 
 # education:
@@ -44,7 +44,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lihd19@mails.tsinghua.edu.cn'  
+  link: 'daijincheng@bupt.edu.cn'  
 # For a direct email link, use "mailto:test@example.org".  改成邮箱，不提供comment这3行
 
 # - icon: twitter
@@ -52,11 +52,12 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=BpXGII0AAAAJ&hl=en   
+  link: https://scholar.google.com/citations?hl=en&user=0I_YtFsAAAAJ   
 # 没有的话也comment
-- icon: github
-  icon_pack: fab
-  link: https://github.com/lhd777  #没有的话也comment
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/lhd777
+# 没有的话也comment
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,11 +65,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lihd19@mails.tsinghua.edu.cn"
+# email: "lihd19@mails.tsinghua.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# ["Supervisor", "Researcjer", "Ph.D Student","Postgraduate Student","Visting Postgraduate Student","Research Intern","Visiting Scholar","Graduated"]  选一个
+# ["Supervisor", "Researcher", "Ph.D Student","Postgraduate Student","Visting Postgraduate Student","Research Intern","Visiting Scholar","Graduated"]  选一个
 user_groups:   
 - Supervisor   
 ---
