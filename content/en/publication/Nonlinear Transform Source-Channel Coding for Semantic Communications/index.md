@@ -6,7 +6,7 @@ date: 2022-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-08-01T16:24:04+08:00
+publishDate: 2022-06-01T16:24:04+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
