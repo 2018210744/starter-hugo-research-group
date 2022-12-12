@@ -15,7 +15,7 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Tsinghua University
+- name: Beijing University of Posts and Telecommunications
   url: "https://www.bupt.edu.cn/"
 
 interests:
