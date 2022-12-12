@@ -1,7 +1,7 @@
 ---
 
 title: "Semantic Coding for Text Transmission: An Iterative Design"
-authors: [JinchengDai, SixianWang, ShengshiYao, KaiNiu]
+authors: [ShengshiYao, KaiNiu, SixianWang, JinchengDai]
 date: 2022-07
 doi: ""
 
