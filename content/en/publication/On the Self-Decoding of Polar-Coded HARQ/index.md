@@ -6,7 +6,7 @@ date: 2021-03
 doi: "10.1109/LCOMM.2021.3065396"
 
 # Schedule page publish date (NOT publication's date).
-publishDate:2021-03-01T16:24:04+08:00
+publishDate: 2021-03-01T16:24:04+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
