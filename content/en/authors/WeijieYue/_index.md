@@ -44,17 +44,17 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'yueweijie@bupt.edu.cn'  
+  link: 'mailto:yueweijie@bupt.edu.cn'  
 # For a direct email link, use "mailto:test@example.org".  改成邮箱，不提供comment这3行
 
 # - icon: twitter
 #   icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
+# - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&user=f9s8H6UAAAAJ 
 # 没有的话也comment
-#- icon: github
+# - icon: github
 #  icon_pack: fab
 #  link: https://github.com/lhd777  #没有的话也comment
 # Link to a PDF of your resume/CV from the About widget.
@@ -72,4 +72,4 @@ social:
 user_groups:   
 - Ph.D Student
 ---
-
+My research focuse on semantic communications and talking-head generation.
