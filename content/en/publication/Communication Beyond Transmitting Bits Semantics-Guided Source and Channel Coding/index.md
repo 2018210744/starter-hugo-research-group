@@ -1,12 +1,12 @@
 ---
 
-title: "Nonlinear Transform Source-Channel Coding for Semantic Communications"
-authors: [JinchengDai, SixianWang, KailinTan, ZhongweiSi, XiaoqiQin, KaiNiu, PingZhang]
-date: 2022-06
+title: "Communication Beyond Transmitting Bits: Semantics-Guided Source and Channel Coding"
+authors: [JinchengDai, PingZhang, KaiNiu, SixianWang, ZhongweiSi, XiaoqiQin]
+date: 2022-08
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-08-01T16:24:04+08:00
+publishDate: 2020-09-01T16:24:04+08:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,12 +15,12 @@ publishDate: 2022-08-01T16:24:04+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Journal on Selected Areas in Communications"
-publication_short: "IEEE JSAC"
+publication: "IEEE Wireless Communications"
+publication_short: "IEEE Wirel Commun"
 
 abstract: "Classical communication paradigms focus on accurately transmitting bits over a noisy channel, and Shannon theoty provides a fundamental theoretical limit on the rate of reliable communications."
 
-tags: [Image, Nonlinear Transform, Semantic]
+tags: [Semantic, Source Coding, Channel Coding]
 categories: [semantic comm]
 featured: true
 
@@ -33,10 +33,10 @@ featured: true
 # icon: twitter
 
 links:
-- name: JSAC
+- name: Wirel Commun
   url: 
 
-url_pdf: https://ieeexplore.ieee.org/abstract/document/9791398
+url_pdf: https://ieeexplore.ieee.org/abstract/document/9852388
 url_code: 
 url_dataset:
 url_poster:
