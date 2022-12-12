@@ -18,7 +18,7 @@ publication_types: ["1"]
 publication: "IEEE Conference and Exhibition on Global Telecommunications "
 publication_short: "IEEE GLOBECOM"
 
-abstract: "Multilevel polar-coded modulation with multistage decoding is a capacity-achieving coded modulation scheme. Inthis paper, we propose a general formulation for analyzing the performance of multilevel polar-coded modulation and then derive the error probability upper bounds. The analysis explicitly reveals the effect of the modulation scheme on the performance of component polar codes. Based on the derived upper bounds, we also propose two construction methods for multilevel polarcoded modulation. Compared with conventional methods, such as density evolution and Gaussian approximation which involve complicated recursive calculations, the proposed methods have a linear computational complexity. Simulation results also show that the proposed construction methods can achieve comparable performance to existing methods under SC decoding, and even better performance under SC list decoding."
+abstract:
 
 
 tags: []
