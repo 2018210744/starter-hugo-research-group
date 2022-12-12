@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Supervisor
+role: Professor
 
 # Organizations/Affiliations
 # organizations:
@@ -19,10 +19,9 @@ role: Supervisor
 #  url: "https://www.tsinghua.edu.cn/"
 
 interests:
-- Semantic communications
-- source and channel coding
-- machine learning for communications
-- Semantic communication
+- coding theory
+- space-time codes
+- broadband wireless communication
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -31,13 +30,13 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'daijincheng@bupt.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'niukai@bupt.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=0I_YtFsAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=Dm9tNxoAAAAJ
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
