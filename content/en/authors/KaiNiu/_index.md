@@ -23,8 +23,8 @@ interests:
 - space-time codes
 - broadband wireless communication
 
-bio: 
-- my research interests include coding theory and its applications, space-time codes and broadband wireless communication.
+# bio: 
+# - my research interests include coding theory and its applications, space-time codes and broadband wireless communication.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
