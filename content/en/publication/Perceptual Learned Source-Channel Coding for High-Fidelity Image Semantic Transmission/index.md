@@ -1,7 +1,7 @@
 ---
 
 title: "Perceptual Learned Source-Channel Coding for High-Fidelity Image Semantic Transmission"
-authors: [JinchengDai, SixianWang, JunWang, ZhongweiSi, DekunZhou, KaiNiu]
+authors: [JunWang, SixianWang, JinchengDai, ZhongweiSi, DekunZhou, KaiNiu]
 date: 2022-11
 doi: ""
 
