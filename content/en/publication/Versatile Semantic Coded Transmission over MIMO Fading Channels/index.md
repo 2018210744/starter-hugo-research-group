@@ -33,7 +33,7 @@ featured: true
 # icon: twitter
 
 links:
-- name: ICASSP
+- name: arxiv
   url: 
 
 url_pdf: https://arxiv.org/abs/2210.16741

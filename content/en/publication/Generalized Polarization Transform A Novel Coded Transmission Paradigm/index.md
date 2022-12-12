@@ -15,7 +15,7 @@ publishDate: 2021-10-01T16:24:04+08:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "1"
 publication_short: ""
 
 abstract: For the upcoming 6G wireless networks, a new wave of applications and services will demand ultra-high data rates and reliability. To this end, future wireless systems are expected to pave the way for entirely new fundamental air interface technologies to attain a breakthrough in spectrum efficiency (SE). This article discusses a new paradigm, named generalized polarization transform (GPT), to achieve an integrated design of coding, modulation, multi-antenna, multiple access, etc., in a real sense. The GPT enabled air interface develops far-reaching insights that the joint optimization of critical air interface ingredients can achieve remarkable gains on SE compared with the state-of-the-art module-stacking design.
@@ -34,7 +34,7 @@ featured: False
 # icon: twitter
 
 links:
-- name: JSAC
+- name: arxiv
   url: 
 
 url_pdf: https://arxiv.org/abs/2110.12224
