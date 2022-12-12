@@ -1,7 +1,7 @@
 ---
 
 title: "Variational Speech Waveform Compression to Catalyze Semantic Communications"
-authors: [JinchengDai, SixianWang, ShengshiYao, ZixuanXiao, KaiNiu]
+authors: [ShengshiYao, ZixuanXiao, SixianWang, JinchengDai, KaiNiu]
 date: 2022-12
 doi: ""
 
