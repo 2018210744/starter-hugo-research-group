@@ -34,7 +34,7 @@ featured: true
 # icon: twitter
 
 links:
-- name: LCOMM
+- name: CommLetter
   url: 
 
 url_pdf: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234

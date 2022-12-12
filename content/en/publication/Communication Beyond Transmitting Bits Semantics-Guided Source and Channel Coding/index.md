@@ -33,7 +33,7 @@ featured: true
 # icon: twitter
 
 links:
-- name: Wirel Commun
+- name: WirelessCom
   url: 
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9852388

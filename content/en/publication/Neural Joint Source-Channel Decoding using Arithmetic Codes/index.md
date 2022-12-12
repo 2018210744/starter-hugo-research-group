@@ -34,7 +34,7 @@ featured: true
 # icon: twitter
 
 links:
-- name: GCWkshps
+- name: GLOBECOM
   url:
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9682040
