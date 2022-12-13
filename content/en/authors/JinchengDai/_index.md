@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Jincheng Dai
-weight: 3
+weight: 1
 
 # Username (this should match the folder name)
 authors:
