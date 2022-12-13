@@ -1,7 +1,7 @@
 ---
 
 title: "Resolution-Adaptive Source-Channel Coding for End-to-End Wireless Image Transmission"
-authors: [JinchengDai, SixianWang, KeYang, KailinTan, KaiNiu, DekunZhou]
+authors: [KeYang, SixianWang, KailinTan, JinchengDai, DekunZhou, KaiNiu]
 date: 2022-11
 doi: ""
 
@@ -55,7 +55,7 @@ links:
 - name: GLOBECOM
   url:
 
-url_pdf: https://arxiv.org/abs/2211.04339
+# url_pdf: https://arxiv.org/abs/2211.04339
 url_code: 
 url_dataset:
 url_poster:
