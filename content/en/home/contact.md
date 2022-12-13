@@ -10,7 +10,7 @@ subtitle = "State Key Laboratory of Intelligent Technology and Systems, Departme
 
 # Automatically link email and phone?
 autolink = true
-coordinates = {latitude = "39.961544", longitude = "116.358103"}
+coordinates = {latitude = "39.961544", longitude = "116.358003"}
 
 # Email form provider
 #   0: Disable email form
