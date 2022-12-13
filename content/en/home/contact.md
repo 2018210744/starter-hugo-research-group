@@ -2,8 +2,8 @@
 # Contact widget.
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 60  # Order that this section will appear.
 
 title = "Contact Us"
 subtitle = "State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Beijing University of Posts and Telecommunications"
