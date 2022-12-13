@@ -13,11 +13,11 @@ design:
     image_darken: 0
 
 ---
-• [2022-12] <font face=consolas> *2 papers* accepted by **2023 WCNC**.</font><br/>
-  - [Variational Speech Waveform Compression to Catalyze Semantic Communications](https://wondrous-dusk-013c57.netlify.app/publication/variational-speech-waveform-compression-to-catalyze-semantic-communications/) <br/>
+• <font face=consolas> <font face=fantasy color=red>**NEW**</font> **[2022-12]** *2 papers* accepted by <font color=#003399>**2023 WCNC**</font>.</font><br/>
+  - Variational Speech Waveform Compression to Catalyze Semantic Communications [[link](https://wondrous-dusk-013c57.netlify.app/publication/variational-speech-waveform-compression-to-catalyze-semantic-communications/)] <br/>
   
-• [2022-08] <font face=consolas> *2 papers* accepted by **2022 GLOBECOM**.</font><br/>
-  - [Resolution-Adaptive Source-Channel Coding for End-to-End Wireless Image Transmission](https://wondrous-dusk-013c57.netlify.app/publication/resolution-adaptive-source-channel-coding-for-end-to-end-wireless-image-transmission/) <br/>
-  - [Perceptual Learned Source-Channel Coding for High-Fidelity Image Semantic Transmission](https://wondrous-dusk-013c57.netlify.app/publication/perceptual-learned-source-channel-coding-for-high-fidelity-image-semantic-transmission/) <br/>
+• <font face=consolas> **[2022-08]** *2 papers* accepted by <font color=#003399>**2022 GLOBECOM**</font>.</font><br/>
+  - Resolution-Adaptive Source-Channel Coding for End-to-End Wireless Image Transmission [[link](https://wondrous-dusk-013c57.netlify.app/publication/resolution-adaptive-source-channel-coding-for-end-to-end-wireless-image-transmission/)] <br/>
+  - Perceptual Learned Source-Channel Coding for High-Fidelity Image Semantic Transmission [[link](https://wondrous-dusk-013c57.netlify.app/publication/perceptual-learned-source-channel-coding-for-high-fidelity-image-semantic-transmission/)] <br/>
   
 
