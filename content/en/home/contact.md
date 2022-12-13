@@ -6,7 +6,7 @@ active = ture  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact Us"
-subtitle = "Get in touch with us"
+subtitle = "State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Beijing University of Posts and Telecommunications"
 
 # Automatically link email and phone?
 autolink = true
@@ -21,5 +21,5 @@ email_form = 0
 [netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
-State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Beijing University of Posts and Telecommunications
+
 
