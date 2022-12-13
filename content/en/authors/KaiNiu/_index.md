@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Kai Niu
-weight: 3
+weight: 1
 
 # Username (this should match the folder name)
 authors:
@@ -19,9 +19,9 @@ organizations:
   url: "https://www.bupt.edu.cn/"
 
 interests:
-- coding theory
-- space-time codes
-- broadband wireless communication
+- information theory
+- polar codes
+- intelligent signal processing
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
