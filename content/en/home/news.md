@@ -14,6 +14,7 @@ design:
 
 ---
 • [2022-12] <font face=consolas> *2 papers* accepted by **2023 WCNC**.</font><br/>
+  - Variational Speech Waveform Compression to Catalyze Semantic Communications
 • [2022-08] <font face=consolas> *2 papers* accepted by **2022 GLOBECOM**.</font><br/>
 • <font face=consolas color=blue>2 papers accepted by **2022 GLOBECOM**. </font><br/>
 
