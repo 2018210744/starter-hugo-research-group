@@ -9,9 +9,9 @@
   [en.params]
   # Address
   # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-  address = {street = "Shuangqing Road 30", city = "Haidian District", region = "Beijing", postcode = "100084", country = "China", country_code = "CN"}
+  address = {street = "Xitucheng Road 30", city = "Haidian District", region = "Beijing", postcode = "100876", country = "China", country_code = "CN"}
   # Directions for visitors to locate you.
-  directions = "4-506, FIT Building, Tsinghua University"
+  directions = "710, Scientific Research Building, Beijing University of Posts and Telecommunications"
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
