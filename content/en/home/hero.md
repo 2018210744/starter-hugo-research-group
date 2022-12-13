@@ -51,7 +51,8 @@ hero_media = "BUPTgate.jpg"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Semantic Communications<br>
-State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Beijing University of Posts and Telecommunications
+• Semantic Communications<br>
+• Source and channel coding<br>
+• Physical layer signal processing for wireless communication<br>
 
 
