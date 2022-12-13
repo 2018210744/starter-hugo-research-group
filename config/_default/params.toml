@@ -97,7 +97,7 @@ address = {street = "北京邮电大学", city = "海淀区", region = "北京�
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.961544", longitude = "116.358103"}
+coordinates = {latitude = "49.961544", longitude = "116.358103"}
 
 # Directions for visitors to locate you.
 directions = "北京邮电大学教三楼"
