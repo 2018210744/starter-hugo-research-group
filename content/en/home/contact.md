@@ -10,6 +10,7 @@ subtitle = "State Key Laboratory of Intelligent Technology and Systems, Departme
 
 # Automatically link email and phone?
 autolink = true
+address = {street = "西土城路10号", city = "海淀区", region = "北京市", postcode = "100876", country = "China", country_code = "CN"}
 
 # Email form provider
 #   0: Disable email form
