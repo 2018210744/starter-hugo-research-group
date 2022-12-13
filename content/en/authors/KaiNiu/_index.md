@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Kai Niu
-weight: 1
+weight: 3
 
 # Username (this should match the folder name)
 authors:
