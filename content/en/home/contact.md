@@ -21,4 +21,5 @@ email_form = 0
 [netlify]
   captcha = false  # Enable CAPTCHA challenge to reduce spam?
 +++
+State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Beijing University of Posts and Telecommunications
 
