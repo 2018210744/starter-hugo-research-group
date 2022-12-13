@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Information Theory and Signal Processing Lab"
+title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "BUPTgate.jpg"
@@ -20,8 +20,8 @@ hero_media = "BUPTgate.jpg"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  gradient_start = "#003399"
+  gradient_end = "#003399"
   
   # Background image.
   # image = "北邮校名校徽编排-横版中英文.png"  # Name of image in `static/media/`.
@@ -31,7 +31,7 @@ hero_media = "BUPTgate.jpg"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
