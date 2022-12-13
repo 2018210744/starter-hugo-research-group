@@ -1,6 +1,6 @@
 ---
 
-title: "Adaptive Semantic Communications Overfitting the Source and Channel for Profit"
+title: "Adaptive Semantic Communications: Overfitting the Source and Channel for Profit"
 authors: [JinchengDai, SixianWang, KeYang, KailinTan, XiaoqiQin, ZhongweiSi, KaiNiu, PingZhang]
 date: 2022-11
 doi: ""
