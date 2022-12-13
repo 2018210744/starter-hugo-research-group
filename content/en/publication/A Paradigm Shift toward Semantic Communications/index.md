@@ -33,7 +33,7 @@ featured: true
 # icon: twitter
 
 links:
-- name: ComMag
+- name: IEEE ComMag
   url: 
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9864327
