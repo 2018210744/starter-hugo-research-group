@@ -33,7 +33,7 @@ featured: true
 # icon: twitter
 
 links:
-- name: arxiv
+- name: arXiv
   url: 
 
 url_pdf: https://arxiv.org/abs/2211.04339

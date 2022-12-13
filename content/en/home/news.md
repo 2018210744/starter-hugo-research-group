@@ -19,4 +19,3 @@ design:
 ● <font face=consolas> **[2022-08]** *2 papers* accepted by <font color=#003399>**2022 GLOBECOM**</font>.</font><br/>
   - Resolution-Adaptive Source-Channel Coding for End-to-End Wireless Image Transmission ([link](/publication/resolution-adaptive-source-channel-coding-for-end-to-end-wireless-image-transmission/) ) <br/>
   - Perceptual Learned Source-Channel Coding for High-Fidelity Image Semantic Transmission ([link](/publication/perceptual-learned-source-channel-coding-for-high-fidelity-image-semantic-transmission/) ) <br/>
-  
