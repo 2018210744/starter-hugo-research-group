@@ -39,8 +39,8 @@ performance, the proposed method saves up to 27% coding rates
 than widely used adaptive multi-rate wideband (AMR-WB) codec
 as well as emerging neural waveform coding methods."
 
-tags: [speech, semantic]
-categories: [semantic comm]
+tags: [Speech, semantic]
+categories: [Semantic Comm]
 featured: true
 
 # Custom links (optional).
@@ -52,10 +52,10 @@ featured: true
 # icon: twitter
 
 links:
-- name: WCNC
+- name: IEEE WCNC
   url: 
 
-url_pdf: https://arxiv.org/abs/2211.04339
+url_pdf: https://arxiv.org/abs/2212.05294
 url_code: 
 url_dataset:
 url_poster:
