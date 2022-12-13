@@ -100,7 +100,7 @@ address = {street = "北京邮电大学", city = "海淀区", region = "北京�
 coordinates = {latitude = "39.961544", longitude = "116.358103"}
 
 # Directions for visitors to locate you.
-directions = "北京邮电大学"
+directions = "北京邮电大学教三楼"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
