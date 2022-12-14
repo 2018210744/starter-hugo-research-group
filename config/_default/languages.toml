@@ -11,8 +11,8 @@
   # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
   address = {street = "Xitucheng Road 10", city = "Haidian District", region = "Beijing", postcode = "100876", country = "China", country_code = "CN"}
   # Directions for visitors to locate you.
-  directions = "710, Scientific Research Building, Beijing University of Posts and Telecommunications"
-  coordinates = {latitude = "39.961544", longitude = "116.358003"}
+  directions = "710, Research Building, Beijing University of Posts and Telecommunications"
+  coordinates = {latitude = "39.964320", longitude = "116.359215"}
 
 # Uncomment the lines below to configure your website in a second language.
 #[zh]
