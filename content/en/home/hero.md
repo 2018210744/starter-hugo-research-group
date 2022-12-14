@@ -52,7 +52,7 @@ hero_media = "BUPTgate.jpg"
 +++
 
 • Semantic Communications<br>
-• Source and Channel Coding<br>
-• Physical Layer Signal Processing for Wireless communications<br>
+• Source and channel coding<br>
+• Physical layer signal processing for wireless communication<br>
 
 
