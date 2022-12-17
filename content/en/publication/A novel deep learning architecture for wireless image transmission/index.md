@@ -1,7 +1,7 @@
 ---
 
 title: "A Novel Deep Learning Architecture for Wireless Image Transmission"
-authors: [JinchengDai, SixianWang, ShengshiYao, KaiNiu, PingZhang]
+authors: [SixianWang,JinchengDai, ShengshiYao, KaiNiu, PingZhang]
 date: 2021-12
 doi: "10.1109/GLOBECOM46510.2021.9685036"
 
@@ -15,7 +15,7 @@ publishDate: 2021-12-01T16:24:04+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Global Communications Conference (GLOBECOM), 2021"
+publication: "IEEE Global Communications Conference"
 publication_short: "IEEE GLOBECOM"
 
 abstract: "In this paper, the problem of neural compression based image transmission over wireless channels is studied. Since all procedures are considered over wireless links, the quality of training is affected by wireless factors such as packet errors. In the considered model, compressed data given by the neural source encoder (NSE) are fed into an error-control channel encoder and modulated as discrete symbols sent over a memoryless channel. In the receiving end, the channel decoder and the neural source decoder (NSD) forms an iterative structure to reconstruct the original image. Since all neural compressed data are transmitted over wireless channels, the training of NSD is affected by wireless channel factors such as residual bit errors given by the channel decoder. Meanwhile, during outer-loop iterations, the NSD needs to match the variant of information reliability output by the channel decoder so as to build a global optimal receiver. To this end, a refiner neural network is first attached after the NSD to adjust its output as the format of a priori information sent into the channel decoder. Then, the extrinsic information transfer (EXIT) functions of channel decoder and NSD are derived. At each iteration, the reliability of messages sent into the NSD is explicitly predicted by using the EXIT chart. By this means, the NSD can be trained in a residual bit error aware manner, and we realize a joint learning and iterative decoding framework to ensure the quality of neural image transmission over realistic wireless channels. "
@@ -33,7 +33,7 @@ featured: true
 # icon: twitter
 
 links:
-- name: IEEE GLOBECOM
+- name: GLOBECOM
   url: 
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9685036

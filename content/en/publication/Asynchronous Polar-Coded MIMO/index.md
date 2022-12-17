@@ -15,7 +15,7 @@ publishDate: 2021-03-01T16:24:04+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Wireless Communitions and Networking Conference (WCNC), 2021"
+publication: "IEEE Wireless Communitions and Networking Conference"
 publication_short: "IEEE WCNC"
 
 abstract: In this paper, a novel polar-coded MIMO (PC-MIMO) framework is proposed to enhance the system polar-ization effect so that the transmission reliability is improved. The key idea is asynchronously transmitting coded bits within one block and then spatially coupling multiple blocks by joint antenna mapping. This consequently leads to the enhancement of the polarization diversity among antenna subchannels under finite block length. Combining with binary polar coding, the gain achieved by the antenna subchannel polarization is finally propagated to bit polarized channels. The proposed asynchronous PC-MIMO is proved to be capacity-achieving under infinite block length and to realize performance gain with respect to synchronous PC-MIMO under finite block length.
@@ -34,7 +34,7 @@ featured: true
 # icon: twitter
 
 links:
-- name: IEEE WCNC
+- name: WCNC
   url: 
 
 url_pdf: https://ieeexplore.ieee.org/abstract/document/9417545
