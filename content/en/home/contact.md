@@ -6,11 +6,11 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Contact Us"
-subtitle = "Key Laboratory of Universal Wireless Communications, Ministry of Education"
+subtitle = "State Key Laboratory of Intelligent Technology and Systems, Department of Computer Science and Technology, Beijing University of Posts and Telecommunications"
 
 # Automatically link email and phone?
 autolink = true
-coordinates = {latitude = "39.964320", longitude = "116.359215"}
+coordinates = {latitude = "39.961544", longitude = "116.358003"}
 
 # Email form provider
 #   0: Disable email form
