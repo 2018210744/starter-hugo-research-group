@@ -1,7 +1,7 @@
 ---
 
 title: "Distributed Image Transmission using Deep Joint Source-Channel Coding"
-authors: [SixianWang, KeYang, JinchengDai, KaiNiu]
+authors: [JinchengDai, SixianWang, KeYang, KaiNiu]
 date: 2022-01
 doi: ""
 
